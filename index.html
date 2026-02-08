@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CargoFax Reports</title>
+<style>
+body { font-family: 'Segoe UI', system-ui, sans-serif; background: #0f172a; color: #e2e8f0; display: flex; align-items: center; justify-content: center; min-height: 100vh; margin: 0; }
+.container { text-align: center; padding: 2rem; }
+h1 { font-size: 2rem; margin-bottom: 0.5rem; color: #e85d04; }
+.subtitle { color: #94a3b8; margin-bottom: 2rem; }
+.tiers { display: flex; gap: 1.5rem; flex-wrap: wrap; justify-content: center; }
+.tier-card {
+    display: flex; flex-direction: column; align-items: center; gap: 0.5rem;
+    padding: 2rem 2.5rem; background: #1e293b; border: 1px solid #334155; border-radius: 12px;
+    text-decoration: none; color: #e2e8f0; transition: all 0.2s; min-width: 200px;
+}
+.tier-card:hover { background: #334155; border-color: #e85d04; transform: translateY(-2px); }
+.tier-icon { font-size: 2rem; }
+.tier-name { font-size: 1.1rem; font-weight: 600; }
+.tier-desc { font-size: 0.8rem; color: #94a3b8; }
+</style>
+</head>
+<body>
+<div class="container">
+    <h1>CargoFax Reports</h1>
+    <p class="subtitle">Haiti Trade Intelligence Platform</p>
+    <div class="tiers">
+        <a href="admin/index.html" class="tier-card">
+            <div class="tier-icon">⚙️</div>
+            <div class="tier-name">Admin</div>
+            <div class="tier-desc">Complete data access with downloads</div>
+        </a>
+        <a href="member/index.html" class="tier-card">
+            <div class="tier-icon">🔑</div>
+            <div class="tier-name">Member</div>
+            <div class="tier-desc">Full reports and analysis</div>
+        </a>
+        <a href="public/index.html" class="tier-card">
+            <div class="tier-icon">🌐</div>
+            <div class="tier-name">Public</div>
+            <div class="tier-desc">Public access with limited data</div>
+        </a></div>
+</div>
+</body>
+</html>
