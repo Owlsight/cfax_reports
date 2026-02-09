@@ -1,0 +1,74 @@
+{
+  "analysis_date": "2026-02-09T10:32:59.123008",
+  "report_type": "monthly",
+  "reporting_year": 2026,
+  "prior_year": 2025,
+  "total_combinations": 3055,
+  "metrics_analyzed": [
+    "weight_kg",
+    "teu",
+    "shipment",
+    "container",
+    "vrac"
+  ],
+  "all_time_highs": 1155,
+  "top50_commodities": 250,
+  "outliers": 100,
+  "market_shift_entries": 325,
+  "overlap_entities": {
+    "countries": [
+      "EGYPT",
+      "THAILAND",
+      "CHILE",
+      "PANAMA",
+      "VIETNAM",
+      "ITALY",
+      "TURKEY"
+    ],
+    "commodities": [
+      "4820",
+      "4818",
+      "8704",
+      "3917",
+      "7308"
+    ],
+    "shipping_line": [
+      "AMERIJET",
+      "NATIONAL SHIPPING OF AMERICA",
+      "PRIVATE CARRIER - TSA",
+      "CROWLEY LINER SERVICES INC",
+      "KING OCEAN SERVICES",
+      "ANTILLEAN MARINE SHIPPING CORP"
+    ],
+    "port": [
+      "MIRAGOANE",
+      "CAP-HAITIEN",
+      "LAFITO",
+      "PORT-AU-PRINCE",
+      "SAINT LOUIS DU SUD"
+    ],
+    "importer": [
+      "SAJ SA",
+      "JMB MEDICAL AGENCY",
+      "CARIBBEAN FLOUR COMPANY SA",
+      "DELTA DISTRIBUTION SA",
+      "CLAUDIA CONSTANT",
+      "TRAFFIC CARGO HAITI"
+    ],
+    "exporter": [
+      "HELVETIA CONTAINER LINE",
+      "SPORTRAK TIRE CO LTD",
+      "HONG KONG YIBO TRADING CO LTD",
+      "TIANJIN BOYA METAL PRODUCTS CO LTD",
+      "CORIOLAN SAMUEL",
+      "GUERING JACQUES"
+    ],
+    "port_of_origin": [
+      "CORK",
+      "ST CROIX",
+      "ISKENDERUN",
+      "MOBILE - AL",
+      "WUHU"
+    ]
+  }
+}

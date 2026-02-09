@@ -1,0 +1,251 @@
+hs_code,hs_description,metric,total,rank
+2523,"Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and similar hydr",weight_kg,1053492377.01,1
+2710,"Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c, containing by weigh",weight_kg,669836068.5,2
+1006,Rice,weight_kg,477106042.72999996,3
+9999,Commodities not specified according to kind,weight_kg,283759913.98999995,4
+1001,Wheat and meslin,weight_kg,220742705.3,5
+1701,"Cane or beet sugar and chemically pure sucrose, in solid form",weight_kg,175483153.19000003,6
+1511,"Palm oil and its fractions; whether or not refined, but not chemically modified",weight_kg,93262873.0,7
+0207,"Meat and edible offal of poultry; of the poultry of heading no. 0105, (i.e. fowls of the species Gal",weight_kg,87176687.19999999,8
+2106,Food preparations not elsewhere specified or included,weight_kg,67238110.17999999,9
+2711,Petroleum gases and other gaseous hydrocarbons,weight_kg,61594505.01,10
+0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,weight_kg,61040296.59999999,11
+6901,"Bricks, blocks, tiles and other ceramic goods of siliceous fossil meals (e.g. kieselguhr, tripolite ",weight_kg,49261691.94000001,12
+7214,"Iron or non-alloy steel; bars and rods, not further worked than forged, hot-rolled, hot drawn or hot",weight_kg,45741522.31,13
+2709,Petroleum oils and oils obtained from bituminous minerals; crude,weight_kg,41237167.78,14
+3824,Prepared binders for foundry moulds or cores; chemical products and preparations of the chemical or ,weight_kg,37156427.28,15
+6309,Textiles; worn clothing and other worn articles,weight_kg,36760555.12,16
+4407,"Wood sawn or chipped lengthwise, sliced or peeled, whether or not planed, sanded or end-jointed, of ",weight_kg,26633403.860000003,17
+0703,"Onions, shallots, garlic, leeks and other alliaceous vegetables; fresh or chilled",weight_kg,25044097.89,18
+7308,"Structures of iron or steel and parts thereof; plates, rods, angles, shapes, sections, tubes and the",weight_kg,19117662.18,19
+0203,"Meat of swine; fresh, chilled or frozen",weight_kg,17422509.450000003,20
+1515,"Fixed vegetable fats and oils (including jojoba oil) and their fractions, whether or not refined; bu",weight_kg,15717485.59,21
+8711,"Motorcycles (including mopeds) and cycles; fitted with an auxiliary motor, with or without side-cars",weight_kg,14797768.309999999,22
+2501,Salt (including table salt and denatured salt); pure sodium chloride whether or not in aqueous solut,weight_kg,14458927.11,23
+1516,"Animal or vegetable fats and oils and their fractions; partly or wholly hydrogenated, inter-esterifi",weight_kg,14246618.399999999,24
+3401,"Soap; organic surface-active preparations used as soap, skin washing, in bars, cakes, moulded pieces",weight_kg,14178348.640000002,25
+4412,"Plywood, veneered panels and similar laminated wood",weight_kg,14095371.29,26
+3901,"Polymers of ethylene, in primary forms",weight_kg,13899918.96,27
+2203,Beer made from malt,weight_kg,13422617.28,28
+5603,"Nonwovens; whether or not impregnated, coated, covered or laminated",weight_kg,13143273.85,29
+7326,"Iron or steel; articles, n.e.c. in chapter 73",weight_kg,12368307.179999998,30
+4011,"New pneumatic tyres, of rubber",weight_kg,11580667.560000002,31
+1604,Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs,weight_kg,11390344.0,32
+1905,"Bread, pastry, cakes, biscuits, other bakers' wares, whether or not containing cocoa; communion wafe",weight_kg,10348540.660000002,33
+1601,"Sausages and similar products of meat, meat offal or blood; food preparations based on these product",weight_kg,10258308.27,34
+7010,"Carboys, bottles, flasks, jars, pots, phials, ampoules, containers of glass of a kind used for the c",weight_kg,10174117.75,35
+6405,Footwear; other footwear n.e.c. in chapter 64,weight_kg,8922836.05,36
+8702,Vehicles; public transport passenger type,weight_kg,8734607.999999998,37
+3204,Synthetic organic colouring matter and preparations based thereon; synthetic organic products used a,weight_kg,8451698.1,38
+3923,"Plastic articles for the conveyance or packing of goods; stoppers, lids, caps and other closures of ",weight_kg,8358780.249999999,39
+0302,"Fish; fresh or chilled, excluding fish fillets and other fish meat of heading 0304",weight_kg,8305771.65,40
+1107,Malt; whether or not roasted,weight_kg,8294597.0200000005,41
+8506,Cells and batteries; primary,weight_kg,7941089.26,42
+8703,Motor cars and other motor vehicles; principally designed for the transport of persons (other than t,weight_kg,7663713.059999999,43
+8714,Vehicles; parts and accessories of heading no. 8711 to 8713,weight_kg,7435422.2700000005,44
+1507,"Soya-bean oil and its fractions; whether or not refined, but not chemically modified",weight_kg,7288109.14,45
+9619,"Sanitary towels (pads) and tampons, napkins and napkin liners for babies and similar articles, of an",weight_kg,7144028.300000001,46
+7312,"Stranded wire, ropes, cables, plaited bands, slings and the like, of iron or steel, not electrically",weight_kg,6983291.4799999995,47
+4809,"Carbon paper, self copy paper, and other copying or transfer papers (including coated or impregnated",weight_kg,6978673.119999999,48
+7225,"Alloy steel flat-rolled products, of a width 600mm or more",weight_kg,6725946.0200000005,49
+1704,"Sugar confectionery (including white chocolate), not containing cocoa",weight_kg,6659188.100000001,50
+9999,Commodities not specified according to kind,teu,22186.5,1
+0207,"Meat and edible offal of poultry; of the poultry of heading no. 0105, (i.e. fowls of the species Gal",teu,6609.25,2
+1701,"Cane or beet sugar and chemically pure sucrose, in solid form",teu,6440.5,3
+2106,Food preparations not elsewhere specified or included,teu,4859.5,4
+0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,teu,3121.5,5
+6309,Textiles; worn clothing and other worn articles,teu,3058.75,6
+1006,Rice,teu,1888.5,7
+6901,"Bricks, blocks, tiles and other ceramic goods of siliceous fossil meals (e.g. kieselguhr, tripolite ",teu,1873.0,8
+8711,"Motorcycles (including mopeds) and cycles; fitted with an auxiliary motor, with or without side-cars",teu,1862.5,9
+0703,"Onions, shallots, garlic, leeks and other alliaceous vegetables; fresh or chilled",teu,1831.5,10
+5603,"Nonwovens; whether or not impregnated, coated, covered or laminated",teu,1706.25,11
+4011,"New pneumatic tyres, of rubber",teu,1634.5,12
+0203,"Meat of swine; fresh, chilled or frozen",teu,1399.5,13
+3923,"Plastic articles for the conveyance or packing of goods; stoppers, lids, caps and other closures of ",teu,1368.25,14
+1511,"Palm oil and its fractions; whether or not refined, but not chemically modified",teu,1245.25,15
+9619,"Sanitary towels (pads) and tampons, napkins and napkin liners for babies and similar articles, of an",teu,1222.0,16
+1905,"Bread, pastry, cakes, biscuits, other bakers' wares, whether or not containing cocoa; communion wafe",teu,1148.75,17
+3401,"Soap; organic surface-active preparations used as soap, skin washing, in bars, cakes, moulded pieces",teu,1138.5,18
+8418,"Refrigerators, freezers and other refrigerating or freezing equipment, electric or other; heat pumps",teu,1125.25,19
+3901,"Polymers of ethylene, in primary forms",teu,1120.0,20
+4819,"Cartons, boxes, cases, bags and the like, of paper, paperboard, cellulose wadding or fibres; box fil",teu,1107.0,21
+7010,"Carboys, bottles, flasks, jars, pots, phials, ampoules, containers of glass of a kind used for the c",teu,1100.5,22
+2203,Beer made from malt,teu,1045.75,23
+6405,Footwear; other footwear n.e.c. in chapter 64,teu,1044.0,24
+4412,"Plywood, veneered panels and similar laminated wood",teu,1033.75,25
+2710,"Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c, containing by weigh",teu,901.0,26
+1601,"Sausages and similar products of meat, meat offal or blood; food preparations based on these product",teu,777.0,27
+1515,"Fixed vegetable fats and oils (including jojoba oil) and their fractions, whether or not refined; bu",teu,733.0,28
+1107,Malt; whether or not roasted,teu,672.0,29
+0302,"Fish; fresh or chilled, excluding fish fillets and other fish meat of heading 0304",teu,631.75,30
+8714,Vehicles; parts and accessories of heading no. 8711 to 8713,teu,609.25,31
+7321,"Stoves, ranges, grates, cookers (those with subsidiary boilers for central heating), barbecues, braz",teu,597.25,32
+1604,Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs,teu,589.0,33
+8703,Motor cars and other motor vehicles; principally designed for the transport of persons (other than t,teu,585.75,34
+7326,"Iron or steel; articles, n.e.c. in chapter 73",teu,567.0,35
+1704,"Sugar confectionery (including white chocolate), not containing cocoa",teu,551.5,36
+4809,"Carbon paper, self copy paper, and other copying or transfer papers (including coated or impregnated",teu,547.75,37
+3304,"Cosmetic and toilet preparations; beauty, make-up and skin care preparations (excluding medicaments,",teu,540.0,38
+3006,Pharmaceutical goods,teu,523.0,39
+3808,"Insecticides, rodenticides, fungicides, herbicides, anti-sprouting products, plant growth regulators",teu,518.0,40
+8506,Cells and batteries; primary,teu,495.0,41
+8541,"Diodes, transistors, similar semiconductor devices; including photovoltaic cells assembled or not in",teu,466.0,42
+2501,Salt (including table salt and denatured salt); pure sodium chloride whether or not in aqueous solut,teu,428.0,43
+2905,"Acyclic alcohols and their halogenated, sulphonated, nitrated or nitrosated derivatives",teu,404.5,44
+3303,Perfumes and toilet waters,teu,385.5,45
+4818,"Toilet paper, width 36cm or less or cut to size/shape; handkerchiefs, tissues, towels, serviettes, b",teu,367.0,46
+3204,Synthetic organic colouring matter and preparations based thereon; synthetic organic products used a,teu,361.0,47
+2205,"Vermouth and other wine of fresh grapes, flavoured with plants or aromatic substances",teu,354.75,48
+8708,"Motor vehicles; parts and accessories, of heading no. 8701 to 8705",teu,331.0,49
+9403,"Furniture and parts thereof, n.e.c. in chapter 94",teu,331.0,50
+9999,Commodities not specified according to kind,shipment,15735.0,1
+8703,Motor cars and other motor vehicles; principally designed for the transport of persons (other than t,shipment,2648.0,2
+0207,"Meat and edible offal of poultry; of the poultry of heading no. 0105, (i.e. fowls of the species Gal",shipment,2225.0,3
+2106,Food preparations not elsewhere specified or included,shipment,1237.0,4
+6309,Textiles; worn clothing and other worn articles,shipment,1206.0,5
+8702,Vehicles; public transport passenger type,shipment,815.0,6
+5603,"Nonwovens; whether or not impregnated, coated, covered or laminated",shipment,743.0,7
+8711,"Motorcycles (including mopeds) and cycles; fitted with an auxiliary motor, with or without side-cars",shipment,607.0,8
+0203,"Meat of swine; fresh, chilled or frozen",shipment,584.0,9
+0703,"Onions, shallots, garlic, leeks and other alliaceous vegetables; fresh or chilled",shipment,582.0,10
+3006,Pharmaceutical goods,shipment,578.0,11
+0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,shipment,534.0,12
+6405,Footwear; other footwear n.e.c. in chapter 64,shipment,511.0,13
+2710,"Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c, containing by weigh",shipment,505.0,14
+1701,"Cane or beet sugar and chemically pure sucrose, in solid form",shipment,446.0,15
+1511,"Palm oil and its fractions; whether or not refined, but not chemically modified",shipment,431.0,16
+4011,"New pneumatic tyres, of rubber",shipment,428.0,17
+8704,Vehicles; for the transport of goods,shipment,411.0,18
+4819,"Cartons, boxes, cases, bags and the like, of paper, paperboard, cellulose wadding or fibres; box fil",shipment,386.0,19
+1601,"Sausages and similar products of meat, meat offal or blood; food preparations based on these product",shipment,363.0,20
+6901,"Bricks, blocks, tiles and other ceramic goods of siliceous fossil meals (e.g. kieselguhr, tripolite ",shipment,337.0,21
+3923,"Plastic articles for the conveyance or packing of goods; stoppers, lids, caps and other closures of ",shipment,318.0,22
+1006,Rice,shipment,290.0,23
+1905,"Bread, pastry, cakes, biscuits, other bakers' wares, whether or not containing cocoa; communion wafe",shipment,287.0,24
+8506,Cells and batteries; primary,shipment,274.0,25
+8708,"Motor vehicles; parts and accessories, of heading no. 8701 to 8705",shipment,239.0,26
+8418,"Refrigerators, freezers and other refrigerating or freezing equipment, electric or other; heat pumps",shipment,235.0,27
+1704,"Sugar confectionery (including white chocolate), not containing cocoa",shipment,223.0,28
+3901,"Polymers of ethylene, in primary forms",shipment,220.0,29
+3303,Perfumes and toilet waters,shipment,219.0,30
+8714,Vehicles; parts and accessories of heading no. 8711 to 8713,shipment,214.0,31
+3304,"Cosmetic and toilet preparations; beauty, make-up and skin care preparations (excluding medicaments,",shipment,206.0,32
+4901,"Printed books, brochures, leaflets and similar printed matter, whether or not in single sheets",shipment,201.0,33
+3004,"Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed products f",shipment,190.0,34
+9619,"Sanitary towels (pads) and tampons, napkins and napkin liners for babies and similar articles, of an",shipment,186.0,35
+2203,Beer made from malt,shipment,184.0,36
+1604,Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs,shipment,173.0,37
+7321,"Stoves, ranges, grates, cookers (those with subsidiary boilers for central heating), barbecues, braz",shipment,167.0,38
+0302,"Fish; fresh or chilled, excluding fish fillets and other fish meat of heading 0304",shipment,166.0,39
+8541,"Diodes, transistors, similar semiconductor devices; including photovoltaic cells assembled or not in",shipment,158.0,40
+2205,"Vermouth and other wine of fresh grapes, flavoured with plants or aromatic substances",shipment,155.0,41
+3401,"Soap; organic surface-active preparations used as soap, skin washing, in bars, cakes, moulded pieces",shipment,151.0,42
+6704,"Wigs, false beards, eyebrows and eyelashes, switches and the like, of human or animal hair or of tex",shipment,150.0,43
+3926,"Articles of plastics and articles of other materials of heading no. 3901 to 3914, n.e.c. in chapter ",shipment,149.0,44
+1515,"Fixed vegetable fats and oils (including jojoba oil) and their fractions, whether or not refined; bu",shipment,143.0,45
+8502,Electric generating sets and rotary converters,shipment,143.0,46
+9403,"Furniture and parts thereof, n.e.c. in chapter 94",shipment,140.0,47
+4412,"Plywood, veneered panels and similar laminated wood",shipment,129.0,48
+3808,"Insecticides, rodenticides, fungicides, herbicides, anti-sprouting products, plant growth regulators",shipment,127.0,49
+8407,Reciprocating or rotary internal combustion piston engines,shipment,125.0,50
+9999,Commodities not specified according to kind,container,11241.0,1
+1701,"Cane or beet sugar and chemically pure sucrose, in solid form",container,4396.0,2
+2106,Food preparations not elsewhere specified or included,container,3326.0,3
+0207,"Meat and edible offal of poultry; of the poultry of heading no. 0105, (i.e. fowls of the species Gal",container,3213.0,4
+0402,Milk and cream; concentrated or containing added sugar or other sweetening matter,container,2846.0,5
+6901,"Bricks, blocks, tiles and other ceramic goods of siliceous fossil meals (e.g. kieselguhr, tripolite ",container,1832.0,6
+1006,Rice,container,1666.0,7
+6309,Textiles; worn clothing and other worn articles,container,1437.0,8
+1511,"Palm oil and its fractions; whether or not refined, but not chemically modified",container,1084.0,9
+8711,"Motorcycles (including mopeds) and cycles; fitted with an auxiliary motor, with or without side-cars",container,893.0,10
+0703,"Onions, shallots, garlic, leeks and other alliaceous vegetables; fresh or chilled",container,878.0,11
+4011,"New pneumatic tyres, of rubber",container,812.0,12
+5603,"Nonwovens; whether or not impregnated, coated, covered or laminated",container,793.0,13
+0203,"Meat of swine; fresh, chilled or frozen",container,658.0,14
+3923,"Plastic articles for the conveyance or packing of goods; stoppers, lids, caps and other closures of ",container,651.0,15
+9619,"Sanitary towels (pads) and tampons, napkins and napkin liners for babies and similar articles, of an",container,609.0,16
+3401,"Soap; organic surface-active preparations used as soap, skin washing, in bars, cakes, moulded pieces",container,595.0,17
+8418,"Refrigerators, freezers and other refrigerating or freezing equipment, electric or other; heat pumps",container,587.0,18
+1905,"Bread, pastry, cakes, biscuits, other bakers' wares, whether or not containing cocoa; communion wafe",container,586.0,19
+3901,"Polymers of ethylene, in primary forms",container,562.0,20
+4819,"Cartons, boxes, cases, bags and the like, of paper, paperboard, cellulose wadding or fibres; box fil",container,545.0,21
+1515,"Fixed vegetable fats and oils (including jojoba oil) and their fractions, whether or not refined; bu",container,543.0,22
+7010,"Carboys, bottles, flasks, jars, pots, phials, ampoules, containers of glass of a kind used for the c",container,532.0,23
+6405,Footwear; other footwear n.e.c. in chapter 64,container,516.0,24
+4412,"Plywood, veneered panels and similar laminated wood",container,512.0,25
+2203,Beer made from malt,container,508.0,26
+1604,Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs,container,508.0,27
+2710,"Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c, containing by weigh",container,447.0,28
+7326,"Iron or steel; articles, n.e.c. in chapter 73",container,436.0,29
+2501,Salt (including table salt and denatured salt); pure sodium chloride whether or not in aqueous solut,container,426.0,30
+8506,Cells and batteries; primary,container,384.0,31
+1601,"Sausages and similar products of meat, meat offal or blood; food preparations based on these product",container,364.0,32
+3204,Synthetic organic colouring matter and preparations based thereon; synthetic organic products used a,container,360.0,33
+1107,Malt; whether or not roasted,container,320.0,34
+8714,Vehicles; parts and accessories of heading no. 8711 to 8713,container,313.0,35
+8703,Motor cars and other motor vehicles; principally designed for the transport of persons (other than t,container,312.0,36
+7321,"Stoves, ranges, grates, cookers (those with subsidiary boilers for central heating), barbecues, braz",container,299.0,37
+0302,"Fish; fresh or chilled, excluding fish fillets and other fish meat of heading 0304",container,298.0,38
+3006,Pharmaceutical goods,container,288.0,39
+3304,"Cosmetic and toilet preparations; beauty, make-up and skin care preparations (excluding medicaments,",container,281.0,40
+1704,"Sugar confectionery (including white chocolate), not containing cocoa",container,277.0,41
+4809,"Carbon paper, self copy paper, and other copying or transfer papers (including coated or impregnated",container,274.0,42
+3808,"Insecticides, rodenticides, fungicides, herbicides, anti-sprouting products, plant growth regulators",container,263.0,43
+7312,"Stranded wire, ropes, cables, plaited bands, slings and the like, of iron or steel, not electrically",container,259.0,44
+8541,"Diodes, transistors, similar semiconductor devices; including photovoltaic cells assembled or not in",container,232.0,45
+2205,"Vermouth and other wine of fresh grapes, flavoured with plants or aromatic substances",container,214.0,46
+3303,Perfumes and toilet waters,container,205.0,47
+2905,"Acyclic alcohols and their halogenated, sulphonated, nitrated or nitrosated derivatives",container,203.0,48
+7225,"Alloy steel flat-rolled products, of a width 600mm or more",container,203.0,49
+7317,"Nails, tacks, drawing pins, corrugated nails, staples (not those of heading no. 8305) and the like, ",container,197.0,50
+9999,Commodities not specified according to kind,vrac,5992.0,1
+8703,Motor cars and other motor vehicles; principally designed for the transport of persons (other than t,vrac,2468.0,2
+8702,Vehicles; public transport passenger type,vrac,752.0,3
+8704,Vehicles; for the transport of goods,vrac,384.0,4
+3006,Pharmaceutical goods,vrac,365.0,5
+1511,"Palm oil and its fractions; whether or not refined, but not chemically modified",vrac,253.0,6
+2710,"Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c, containing by weigh",vrac,204.0,7
+4901,"Printed books, brochures, leaflets and similar printed matter, whether or not in single sheets",vrac,174.0,8
+1006,Rice,vrac,129.0,9
+8407,Reciprocating or rotary internal combustion piston engines,vrac,125.0,10
+8708,"Motor vehicles; parts and accessories, of heading no. 8701 to 8705",vrac,112.0,11
+3004,"Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed products f",vrac,111.0,12
+2523,"Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and similar hydr",vrac,109.0,13
+9018,"Instruments and appliances used in medical, surgical, dental or veterinary sciences, including scint",vrac,79.0,14
+2711,Petroleum gases and other gaseous hydrocarbons,vrac,75.0,15
+9705,Animal originated products; not elsewhere specified or included,vrac,65.0,16
+3822,Reagents; diagnostic or laboratory reagents on a backing and prepared diagnostic or laboratory reage,vrac,62.0,17
+8517,Sugars and sugar confectionery,vrac,62.0,18
+1701,"Cane or beet sugar and chemically pure sucrose, in solid form",vrac,53.0,19
+8711,"Motorcycles (including mopeds) and cycles; fitted with an auxiliary motor, with or without side-cars",vrac,50.0,20
+3003,"Medicaments; (not goods of heading no. 3002, 3005 or 3006) of two or more constituents mixed togethe",vrac,48.0,21
+8716,"Trailers and semi-trailers; other vehicles, not mechanically propelled; parts thereof",vrac,46.0,22
+0603,"Flowers; cut flowers and flower buds of a kind suitable for bouquets or for ornamental purposes, fre",vrac,37.0,23
+4911,"Printed matter, n.e.c., including printed pictures and photographs",vrac,35.0,24
+1001,Wheat and meslin,vrac,35.0,25
+4407,"Wood sawn or chipped lengthwise, sliced or peeled, whether or not planed, sanded or end-jointed, of ",vrac,30.0,26
+8502,Electric generating sets and rotary converters,vrac,30.0,27
+8542,Electronic integrated circuits,vrac,27.0,28
+6309,Textiles; worn clothing and other worn articles,vrac,26.0,29
+3303,Perfumes and toilet waters,vrac,25.0,30
+1516,"Animal or vegetable fats and oils and their fractions; partly or wholly hydrogenated, inter-esterifi",vrac,20.0,31
+4011,"New pneumatic tyres, of rubber",vrac,18.0,32
+3002,"Human blood; animal blood for therapeutic, prophylactic or diagnostic uses; antisera, other blood fr",vrac,17.0,33
+8441,"Machines; for making up paper pulp, paper or paperboard, including cutting machines of all kinds",vrac,15.0,34
+2106,Food preparations not elsewhere specified or included,vrac,14.0,35
+8803,"Fish and crustaceans, molluscs and other aquatic invertebrates",vrac,14.0,36
+8429,"Bulldozers, graders, levellers, scrapers, angledozers, mechanical shovels, excavators, shovel loader",vrac,13.0,37
+7214,"Iron or non-alloy steel; bars and rods, not further worked than forged, hot-rolled, hot drawn or hot",vrac,13.0,38
+8706,"Chassis; fitted with engines, for the motor vehicles of heading no. 8701 to 8705",vrac,13.0,39
+8471,"Automatic data processing machines and units thereof, magnetic or optical readers, machines for tran",vrac,13.0,40
+3824,Prepared binders for foundry moulds or cores; chemical products and preparations of the chemical or ,vrac,12.0,41
+8421,"Centrifuges, including centrifugal dryers; filtering or purifying machinery and apparatus for liquid",vrac,12.0,42
+2709,Petroleum oils and oils obtained from bituminous minerals; crude,vrac,12.0,43
+4819,"Cartons, boxes, cases, bags and the like, of paper, paperboard, cellulose wadding or fibres; box fil",vrac,11.0,44
+5204,"Cotton sewing thread, whether or not put up for retail sale",vrac,11.0,45
+3203,"Colouring matter of vegetable or animal origin (including dyeing extracts, not animal black); whethe",vrac,10.0,46
+8473,"Machinery; parts and accessories (other than covers, carrying cases and the like) suitable for use s",vrac,10.0,47
+3215,"Ink; printing, writing or drawing ink and other inks; whether or not concentrated or solid",vrac,10.0,48
+6305,"Sacks and bags, of a kind used for the packing of goods",vrac,9.0,49
+8506,Cells and batteries; primary,vrac,9.0,50
