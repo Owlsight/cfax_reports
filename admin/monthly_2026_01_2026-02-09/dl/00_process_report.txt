@@ -1,0 +1,31 @@
+Haiti Import Report — Process Report
+==================================================
+Report period: 2026_01 (monthly)
+Started:  2026-02-09T15:29:53.236283Z
+Finished: 2026-02-09T15:38:24.812446Z
+
+Pipeline steps (01–12):
+  01_merge_classification_to_customs.py: 0.69s — ok
+  02_haiti_data_extractor.py: 8.42s — ok
+  03_entity_summaries.py: 9.79s — ok
+  03_haiti_trade_analysis.py: 44.35s — ok
+  04_haiti_commodity_deep_dive.py: 1.78s — ok
+  05_ml_haiti_analysis.py: 5.52s — ok
+  05b_comprehensive_statistical_analysis.py: 115.40s — ok
+  06_haiti_generate_report.py: 2.25s — ok
+  07_haiti_trade_stories.py: 215.27s — ok
+  08_haiti_comprehensive_report.py: 2.02s — ok
+  09_haiti_comprehensive_md_report.py: 2.08s — ok
+  10_haiti_timeseries_html.py: 97.64s — ok
+  11_haiti_hs_section_report.py: 2.40s — ok
+  12_haiti_html_report_hub.py: 3.91s — ok
+
+Pipeline total: 511.58s (8.5 min)
+
+Next (from launcher): AI narrative (13_content_writer), report hub (build_output_index), then site launch.
+
+Outputs written to: output\2026-02-09_monthly_2026_01
+
+Reports: 08_* COMPREHENSIVE (tables), 09_* COMPREHENSIVE (MD), 10_* timeseries (HTML), 12_* report hub (HTML).
+Stats: 05b_* comprehensive stats (JSON/CSV) — ATH, top 50, movers, drilldowns, outliers.
+AI narrative: 13_haiti_content_writer.py → AI_Haiti_Report_A_* (comprehensive) + AI_Haiti_Report_C_* (curated) (requires ANTHROPIC_API_KEY).

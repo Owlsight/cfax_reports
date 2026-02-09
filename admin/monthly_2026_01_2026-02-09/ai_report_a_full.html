@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Haiti Import Intelligence — Report A — Comprehensive — monthly_2026_01</title>
+<style>
+:root {
+    --bg-primary: #0f0f1a;
+    --bg-secondary: #1a1a2e;
+    --bg-card: #16213e;
+    --text-primary: #e8e8e8;
+    --text-secondary: #a0a0a0;
+    --accent: #4fc3f7;
+    --accent-secondary: #81d4fa;
+    --border: #2a2a4a;
+    --orange: #f27119;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+    font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+    background: var(--bg-primary);
+    color: var(--text-primary);
+    line-height: 1.7;
+    padding: 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+h1 { color: var(--accent); font-size: 2.2rem; margin-bottom: 1rem; border-bottom: 2px solid var(--accent); padding-bottom: 0.5rem; }
+h2 { color: var(--accent-secondary); font-size: 1.6rem; margin: 2rem 0 1rem; border-left: 4px solid var(--accent); padding-left: 1rem; }
+h3 { color: var(--text-primary); font-size: 1.3rem; margin: 1.5rem 0 0.75rem; }
+h4 { color: var(--text-secondary); font-size: 1.1rem; margin: 1rem 0 0.5rem; }
+p { margin-bottom: 1rem; text-align: justify; }
+ul { margin: 1rem 0 1rem 2rem; }
+li { margin-bottom: 0.5rem; }
+strong { color: var(--accent); }
+.viz-placeholder {
+    background: var(--bg-card);
+    border: 2px dashed var(--orange);
+    border-radius: 8px;
+    padding: 1.5rem;
+    margin: 1.5rem 0;
+    text-align: center;
+    color: var(--orange);
+    font-style: italic;
+}
+.viz-icon { font-size: 1.5rem; margin-right: 0.5rem; }
+.cta-section {
+    background: linear-gradient(135deg, var(--bg-card), var(--bg-secondary));
+    border: 2px solid var(--accent);
+    border-radius: 12px;
+    padding: 2rem;
+    margin: 3rem 0 2rem;
+}
+.footer {
+    margin-top: 2rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--border);
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+    text-align: center;
+}
+.report-badge {
+    display: inline-block;
+    background: var(--orange);
+    color: #fff;
+    padding: 0.25rem 0.75rem;
+    border-radius: 4px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+@media (max-width: 768px) {
+    body { padding: 1rem; }
+    h1 { font-size: 1.8rem; }
+}
+</style>
+</head>
+<body>
+<div class="report-badge">Report A — Comprehensive</div>
+<article class="report-content">
+<h1>Haiti Import Trade: January 2026 Shows Broad-Based Contraction Across All Metrics</h1>
+<p><strong>A CargoFax Trade Intelligence Report</strong></p>
+<p>---</p>
+<h2>Executive Summary</h2>
+<p>Haiti's import flows in January 2026 reveal a trade environment operating at dramatically reduced levels compared to the prior year, with declines evident across every major metric and category tracked in CargoFax bill of lading data:</p>
+<ul><li><strong>Total tonnage reached 402.8 million kg</strong>, up 28.9% year-over-year, driven primarily by bulk commodities including cement, petroleum products, and agricultural goods</li>
+<li><strong>Container volumes measured 11,400 TEU</strong>, rising 32.9% compared to January 2025, though still well below historical monthly averages</li>
+<li><strong>Shipment counts totaled 4,901</strong>, up 46.3% year-over-year, suggesting a recovery in transaction frequency even as individual shipment sizes remained constrained</li>
+<li><strong>The USA maintained its position as Haiti's largest supplier</strong> across tonnage (28.7% share), shipments (49.4% share), and bulk cargo (95.5% share), though Egypt emerged as a significant new cement supplier</li>
+<li><strong>Port-au-Prince handled 70.4% of tonnage and TEU</strong>, with Cap-Haïtien processing 15.8% of tonnage as the secondary gateway</li></ul>
+<p><strong>Data source:</strong> CargoFax bill of lading records for shipments arriving in Haiti during January 2026, compared against January 2025 baseline.</p>
+<p><strong>Bottom line:</strong> January 2026 represents a month of modest recovery from severely depressed 2025 levels, with growth driven primarily by essential commodity imports—cement, petroleum, food staples—rather than manufactured goods or consumer products. The concentration of flows through Port-au-Prince and reliance on U.S. supply chains remained consistent with historical patterns.</p>
+<p>---</p>
+<h2>Table of Contents</h2>
+<p><strong>[Part I: The Big Picture](#part-i)</strong> — Total import volumes across all five metrics and what drove the year-over-year changes</p>
+<p><strong>[Part II: Commodity Analysis](#part-ii)</strong> — The products moving through Haiti's ports, from cement to rice to motorcycles</p>
+<p><strong>[Part III: Country Dynamics](#part-iii)</strong> — Geographic shifts in sourcing, with Egypt and Turkey gaining ground in construction materials</p>
+<p><strong>[Part IV: Carrier & Shipping Analysis](#part-iv)</strong> — Which shipping lines moved Haiti's imports and how market shares evolved</p>
+<p><strong>[Part V: Port Analysis](#part-v)</strong> — Distribution across Haiti's arrival ports and the origin ports supplying them</p>
+<p><strong>[Part VI: Sourcing Shifts & Substitution](#part-vi)</strong> — Where Haiti switched suppliers and what commodities drove the changes</p>
+<p><strong>[Part VII: Top Outliers & Anomalies](#part-vii)</strong> — The biggest movers and machine-learning-detected pattern breaks</p>
+<p><strong>[Part VIII: Importer & Exporter Landscape](#part-viii)</strong> — Key commercial entities driving trade flows</p>
+<p><strong>[Conclusion](#conclusion)</strong> — What January's data signals about Haiti's import trade trajectory</p>
+<p><strong>[Methodology](#methodology)</strong> — Data sources, metrics definitions, and analytical approach</p>
+<p>---</p>
+<h2>Part Summaries</h2>
+<p><strong>[Part I: The Big Picture](#part-i)</strong> examines Haiti's total January 2026 import volumes of 402.8 million kg and 11,400 TEU, both showing year-over-year increases of 28.9% and 32.9% respectively, though these gains reflect recovery from exceptionally low 2025 baselines rather than robust growth.</p>
+<p><strong>[Part II: Commodity Analysis](#part-ii)</strong> breaks down the product mix, with cement (HS 2523) accounting for 78.5 million kg, petroleum products dominating bulk shipments at 82.9 million kg, and agricultural staples including 42.4 million kg of rice and 27.3 million kg of wheat driving food security imports.</p>
+<p><strong>[Part III: Country Dynamics](#part-iii)</strong> reveals the USA supplying 115.5 million kg (28.7% share) despite an 89.6% year-over-year decline, while Egypt emerged with 36.1 million kg in cement shipments and Turkey contributed 38.5 million kg, primarily in construction materials.</p>
+<p><strong>[Part IV: Carrier & Shipping Analysis](#part-iv)</strong> shows private carriers and bulk operators dominating tonnage, with CMA/CGM leading containerized flows at 2,700 TEU (23.6% share) and Mediterranean Shipping Company handling 2,200 TEU (19.4% share).</p>
+<p><strong>[Part V: Port Analysis](#part-v)</strong> documents Port-au-Prince's continued dominance at 295.2 million kg and 8,200 TEU, with Cap-Haïtien processing 66.3 million kg and 2,300 TEU as the secondary gateway, while origin ports in the U.S. Virgin Islands, Houston, and Alexandria supplied the largest volumes.</p>
+<p><strong>[Part VI: Sourcing Shifts & Substitution](#part-vi)</strong> identifies Egypt and Turkey gaining cement market share as traditional suppliers contracted, while the USA maintained dominance in food staples despite volume declines, and China's manufactured goods shipments fell sharply across categories.</p>
+<p><strong>[Part VII: Top Outliers & Anomalies](#part-vii)</strong> highlights Egypt's cement surge from near-zero to 32.9 million kg, the USA's wheat shipments jumping 284.8% to 27.3 million kg, and China's wire products (HS 7217) increasing 5,558% from a small base to 4.8 million kg.</p>
+<p><strong>[Part VIII: Importer & Exporter Landscape](#part-viii)</strong> profiles the commercial entities moving goods, with Madbrad SA receiving 50.9 million kg, Cristo SA handling 38.6 million kg across 151 shipments, and GB Energy Trading importing 26.3 million kg of petroleum products.</p>
+<p>---</p>
+<p><a id="part-i"></a>
+<h2>Part I: The Big Picture — Recovery from Severely Depressed Baselines</h2>
+<p>Haiti's import trade in January 2026 operated at levels that, while showing year-over-year percentage increases, remained constrained by historical standards. The month brought 402.8 million kg of goods through Haiti's ports, representing a 28.9% increase compared to January 2025's 312.5 million kg. Container volumes measured 11,400 TEU, up 32.9% from 8,579 TEU in the prior-year month. Shipment counts reached 4,901, a 46.3% increase from 3,351 shipments in January 2025.</p>
+<p>These percentage gains, however, require context. The January 2025 baseline represented an exceptionally weak period in Haiti's import trade, with volumes well below the monthly averages seen in mid-2025. The February through December 2025 data shows monthly tonnage typically ranging from 255 million kg to 415 million kg, with TEU counts between 6,300 and 10,800, and shipment volumes from 2,100 to 5,200. January 2026's figures place it near the middle of this range—a recovery to more typical levels rather than exceptional growth.</p>
+<p>The composition of January's imports reveals a trade flow dominated by essential commodities. Bulk cargo (vrac) accounted for 1,541 shipments, up 94.8% year-over-year, reflecting the movement of petroleum products, cement, and agricultural goods in non-containerized form. Container shipments totaled 6,982 units, a 38.9% increase from 5,025 containers in January 2025.</p>
+<p>Breaking down the tonnage by major categories, construction materials led with cement products (HS 2523) contributing 78.5 million kg. Petroleum products across various classifications totaled approximately 82.9 million kg, including 55.4 million kg from the U.S. Virgin Islands and 27.3 million kg from U.S. Gulf Coast ports. Food staples represented another major component, with rice (HS 1006) at 42.4 million kg, wheat (HS 1001) at 27.3 million kg, and sugar (HS 1701) at 26.3 million kg.</p>
+<p>The year-over-year comparison reveals a pattern of selective recovery. While overall tonnage increased 28.9%, this growth concentrated in specific commodity categories. Cement imports rose substantially, driven by Egyptian and Turkish suppliers entering or expanding their presence in the Haitian market. Agricultural imports showed mixed performance—wheat surged 284.8% while rice increased a more modest 18.1%. Petroleum product volumes varied by source, with U.S. Virgin Islands shipments up 55.7% while U.S. mainland volumes remained flat.</p>
+<p>Manufactured goods and consumer products, by contrast, showed weaker performance. Containerized imports of Chinese goods, which typically include textiles, electronics, and household items, declined sharply in absolute terms despite some categories showing percentage increases from very small bases. The 3.0 million kg of Chinese motorcycles (HS 8711) represented a 286.8% increase, but this reflected growth from 794,000 kg rather than a massive expansion of the category.</p>
+<p>The monthly trend data provides additional perspective. January 2026's 402.8 million kg compares to a 2025 monthly average of approximately 341 million kg (calculated from the available data). The month's 11,400 TEU sits below the 2025 monthly average of roughly 8,800 TEU. This suggests January 2026 represented a return to more normalized import levels after what appears to have been a particularly weak January 2025.</p>
+<p>Quarterly comparisons offer limited insight given the absence of February and March 2026 data, but the Q1 2025 total of 860.5 million kg across three months (averaging 286.8 million kg per month) provides a reference point. January 2026's 402.8 million kg exceeds this monthly average by 40.4%, suggesting either stronger import activity or potential frontloading ahead of anticipated disruptions.</p>
+<p>The distribution across metrics reveals some interesting patterns. The 46.3% increase in shipment counts outpaced the 28.9% tonnage growth, indicating smaller average shipment sizes—a potential sign of more frequent but less consolidated cargo movements. The 32.9% TEU growth slightly exceeded tonnage growth, suggesting a modest shift toward containerized versus bulk cargo, though bulk shipments still dominated by weight.</p>
+<p>Looking at the data through the lens of trade concentration, the USA's 28.7% tonnage share and 49.4% shipment share underscore Haiti's continued dependence on North American supply chains for diverse product categories. Egypt's emergence with a 9.0% tonnage share, driven almost entirely by cement, represents a significant geographic diversification in construction materials sourcing. Turkey's 9.6% tonnage share similarly reflects cement and construction product flows.</p>
+<p>The port distribution remained heavily concentrated, with Port-au-Prince handling 70.4% of tonnage and 70.9% of TEU. This concentration has persisted across the available historical data, reflecting both the capital's infrastructure advantages and its position as Haiti's commercial center. Cap-Haïtien's 15.8% tonnage share and 19.8% TEU share maintained its role as the primary northern gateway, while smaller ports like Lafito (7.6% tonnage, 9.3% TEU) and Saint Louis du Sud (5.5% tonnage) handled specialized bulk cargo flows.</p>
+<p>The carrier landscape showed private bulk operators dominating tonnage, with Private Carrier - RVAM moving 101.5 million kg (24.2% share) and NYK Line handling 41.0 million kg (9.8% share). Container shipping lines led by CMA/CGM (2,700 TEU, 23.6% share) and Mediterranean Shipping Company (2,200 TEU, 19.4% share) controlled the containerized flows, with Maersk Line contributing 1,500 TEU (12.9% share).</p>
+<p><div class="viz-placeholder"><span class="viz-icon">&#128202;</span> Monthly tonnage and TEU trends, January 2025 through January 2026, showing the recovery pattern</div></p>
+<p>---</p>
+<p><a id="part-ii"></a>
+<h2>Part II: Commodity Analysis — Essential Goods Dominate the Mix</h2>
+<p>Haiti's January 2026 import basket reflected the priorities of a nation focused on basic infrastructure, energy security, and food supply. The commodity breakdown across all five metrics—tonnage, TEU, shipments, containers, and bulk cargo—reveals which products moved through the country's ports and in what volumes.</p>
+<h3>Construction Materials: Cement Leads Tonnage</h3>
+<p>Portland cement (HS 2523) dominated construction material imports, accounting for 78.5 million kg across 31 bulk shipments. This represented 19.5% of Haiti's total January tonnage. Egypt supplied 32.9 million kg (41.9% of cement imports), Turkey contributed 38.1 million kg (48.5%), and the Dominican Republic provided 7.5 million kg (9.6%). The Egyptian cement arrived primarily through Alexandria port aboard bulk carriers, while Turkish cement originated from Iskenderun and Asbas ports. The Dominican Republic's cement came from Rio Haina, reflecting the shorter shipping distances and established trade relationships between the two nations sharing Hispaniola.</p>
+<p>The cement import pattern showed year-over-year growth in absolute terms, though the comparison is complicated by the volatility of bulk commodity flows. Egypt's 32.9 million kg represented a new supply relationship, as January 2025 data shows minimal Egyptian cement volumes. Turkey's 38.1 million kg reflected a 19.7% increase from 31.8 million kg in the prior year, suggesting sustained demand for Turkish construction materials.</p>
+<p>Beyond cement, other construction materials included ceramic bricks and tiles (HS 6901) at 10.9 million kg, with Brazil supplying 3.2 million kg (up 227.2% year-over-year), India contributing 2.6 million kg (up 71.9%), and Peru providing 2.2 million kg (up 1,610% from a very small base). Vietnam supplied 1.5 million kg and China 768,000 kg. The geographic diversity of brick suppliers contrasts with cement's concentration among three sources, likely reflecting different quality specifications, pricing dynamics, and shipping economics for these products.</p>
+<p>Iron and steel products represented another construction material category, with wire (HS 7217) at 4.8 million kg—a 5,558% increase from 84,200 kg in January 2025, supplied entirely by China. This dramatic percentage increase reflects growth from a small baseline rather than a fundamental shift in import patterns. Steel bars and rods (HS 7214) totaled 1.0 million kg from Egypt, while alloy steel products (HS 7228) reached 1.0 million kg, showing a 1,866% increase from minimal prior-year volumes.</p>
+<h3>Petroleum Products: Energy Security Imports</h3>
+<p>Petroleum oils (HS 2710) accounted for 82.9 million kg, making it the second-largest commodity category by weight. The U.S. Virgin Islands supplied 55.4 million kg (66.8% of petroleum imports), up 55.7% from 35.6 million kg in January 2025. The USA contributed 27.3 million kg (32.9% share), with smaller volumes from the Dominican Republic (100,500 kg), Guatemala (83,500 kg), and India (27,200 kg).</p>
+<p>The Virgin Islands petroleum arrived via 16 bulk shipments from St. Croix, handled by private carriers and delivered to Port-au-Prince and other Haitian ports. The U.S. mainland petroleum originated primarily from Houston (contributing to the port's 44.3 million kg total) and New Orleans (29.6 million kg total), shipped by a mix of private bulk operators and commercial carriers.</p>
+<p>Petroleum gases (HS 2711) added another 7.7 million kg, supplied entirely by the Dominican Republic and showing an 82.7% year-over-year increase. This category likely includes liquefied petroleum gas (LPG) for cooking and industrial use, a critical energy source in Haiti's residential and commercial sectors.</p>
+<p>Crude petroleum oils (HS 2709) contributed 6.3 million kg from the Netherlands Antilles, representing a new supply source not present in January 2025 data. This volume arrived through bulk shipments to Port-au-Prince, suggesting potential refining or re-export activities.</p>
+<h3>Agricultural Staples: Food Security Priorities</h3>
+<p>Rice (HS 1006) totaled 42.4 million kg across 469 TEU and 301 shipments, making it Haiti's third-largest import by tonnage. The USA supplied 30.6 million kg (72.2% of rice imports), up 18.1% from 25.9 million kg in January 2025. Pakistan contributed 6.5 million kg (15.3% share), down 41.5% from 11.1 million kg, while India provided 4.2 million kg (10.0% share), doubling from 2.1 million kg. Suriname supplied 1.0 million kg (2.5% share) and Vietnam added 19,400 kg.</p>
+<p>The rice import pattern reflects Haiti's dependence on imported staples to meet domestic food demand. The U.S. rice arrived primarily from Gulf Coast ports—New Orleans, Houston, and Darrow, Louisiana—shipped in bulk form aboard private carriers. Pakistani rice came through Qasim port in 248 TEU, while Indian rice arrived via multiple ports including Mumbai and Chennai in 170 TEU.</p>
+<p>Wheat (HS 1001) reached 27.3 million kg, supplied entirely by the USA and showing a 284.8% increase from 7.1 million kg in January 2025. This surge likely reflects seasonal demand patterns, inventory rebuilding, or favorable pricing conditions. The wheat arrived through Gulf Coast ports in bulk shipments, handled by private carriers and delivered primarily to Port-au-Prince.</p>
+<p>Sugar (HS 1701) totaled 26.3 million kg across 888 TEU and 39 shipments. Colombia supplied 12.1 million kg (45.9% of sugar imports), up 9.7% year-over-year. Guatemala contributed 7.7 million kg (29.3% share), showing a 313.2% increase from 1.9 million kg. Nicaragua provided 5.2 million kg (19.8% share), Panama added 1.2 million kg (4.5% share), and Brazil's sugar imports collapsed from 14.8 million kg to just 130,900 kg—a 99.1% decline that represents the single largest commodity-country contraction in January's data.</p>
+<p>The Brazilian sugar collapse warrants attention. The January 2025 baseline of 14.8 million kg represented substantial volumes, and the near-total disappearance of this flow suggests either a shift to alternative suppliers (Colombia and Guatemala both increased volumes) or a temporary disruption in Brazilian supply chains. The data shows Colombia and Guatemala collectively added 14.3 million kg compared to their January 2025 volumes, nearly offsetting the Brazilian decline.</p>
+<p>Poultry meat (HS 0207) reached 9.4 million kg across 688 TEU and 54 shipments. The USA supplied 7.1 million kg (75.7% share), up 95.3% from 3.6 million kg in January 2025. Brazil contributed 987,500 kg (10.6% share), down 36.1% from 1.5 million kg. Belgium emerged as a new supplier with 336,800 kg (3.6% share), up 484.5% from minimal prior-year volumes. Italy provided 261,700 kg (2.8% share) and Spain added 238,000 kg (2.5% share), both showing strong percentage increases from small bases.</p>
+<p>The poultry import pattern reflects both U.S. dominance in Haiti's meat supply and some diversification toward European sources. The U.S. poultry arrived primarily in refrigerated containers through Houston and New Orleans, while the European shipments came via transatlantic container routes through Port-au-Prince.</p>
+<p>Pork products (HS 0203) totaled 1.5 million kg, supplied entirely by Brazil and showing a 161.2% increase from 574,000 kg in January 2025. Processed meat products (HS 1601) reached 1.4 million kg, also from Brazil, up 43.8% from 981,800 kg. These Brazilian meat flows continued despite the collapse in sugar shipments, suggesting the two commodity categories operate through different supply chains and commercial relationships.</p>
+<p>Palm oil (HS 1511) reached 5.3 million kg, with Indonesia supplying 97.1% (5.1 million kg), down 49.8% from 10.6 million kg in January 2025. Panama contributed 127,300 kg (2.3% share) and the USA added 33,500 kg (0.6% share). The Indonesian palm oil decline represents another significant year-over-year contraction, though the volumes remained substantial in absolute terms.</p>
+<h3>Manufactured Goods: Motorcycles, Textiles, and Consumer Products</h3>
+<p>Motorcycles (HS 8711) totaled 3.1 million kg across 506 TEU and 84 shipments. China supplied 100% of motorcycle imports by tonnage, with the 3.1 million kg representing a 286.8% increase from 794,200 kg in January 2025. India contributed 96 TEU of motorcycles, though the tonnage data shows this as a smaller component. The Chinese motorcycles arrived primarily through Tianjin, Shanghai, and other major ports, shipped in containers aboard CMA/CGM, Mediterranean Shipping Company, and other container lines.</p>
+<p>The motorcycle import surge reflects either growing demand for two-wheeled transportation in Haiti or inventory rebuilding after a period of reduced imports. Motorcycles serve as essential transportation in Haiti's urban and rural areas, offering affordable mobility where road infrastructure limits four-wheeled vehicle use.</p>
+<p>Used clothing and textiles (HS 6309) reached 2.3 million kg across 195 TEU and 40 shipments, supplied entirely by China and showing a 127.5% increase from 1.0 million kg in January 2025. This category represents the secondhand clothing trade that supplies Haiti's markets with affordable apparel, shipped in compressed bales within containers.</p>
+<p>Paper products showed notable growth, with registers and account books (HS 4820) reaching 1.5 million kg across 106 TEU and 17 shipments—a 5,604% increase from 25,700 kg in January 2025. China supplied 1.4 million kg (93.3% share), with smaller contributions from Indonesia (96,400 kg) and other sources. Toilet paper and tissues (HS 4818) totaled 374,100 kg across 52 TEU and 8 shipments, showing a 4,159% increase from 8,800 kg. Egypt supplied 285,300 kg (76.3% share), with China contributing 51,200 kg (13.7% share).</p>
+<p>These paper product surges reflect growth from very small baselines, suggesting either one-time large orders, new commercial relationships, or data artifacts rather than sustained category expansion. The concentration of paper products in single large shipments (17 shipments for 1.5 million kg of registers, 8 shipments for 374,100 kg of toilet paper) supports the interpretation of periodic bulk orders rather than steady flows.</p>
+<p>Vehicles for goods transport (HS 8704) reached 60 TEU and 30 containers, showing a 2,900% increase in TEU from 2 units in January 2025. The tonnage data for this category appears limited, but the container count suggests approximately 30 trucks or commercial vehicles arrived during the month, likely sourced from Asia or North America for Haiti's commercial transport sector.</p>
+<p>Plastic products included tubes and pipes (HS 3917) at 34 TEU, 10 shipments, and 17 containers—showing 1,600% TEU growth from 2 units in January 2025. Iron and steel structures (HS 7308) reached 52 TEU, 9 shipments, and 26 containers, up 940% in TEU terms. These construction-related manufactured goods complement the bulk cement and ceramic imports, providing the components for building projects.</p>
+<h3>Specialty Products and Smaller Categories</h3>
+<p>Synthetic coloring matter (HS 3204) totaled 3.3 million kg, supplied entirely by India and showing a 237.6% increase from 967,200 kg in January 2025. This category serves Haiti's textile, paint, and manufacturing sectors. Vegetable coloring matter (HS 3203) added 604,800 kg, also from India, up 1,370% from 41,200 kg—another example of dramatic percentage growth from a small base.</p>
+<p>Malt and malt extract (HS 1107) reached 1.9 million kg from Belgium, representing an all-time high for this commodity-country combination according to the historical data. This likely supplies Haiti's brewing industry. Wine and vermouth (HS 2205) totaled 501,400 kg from Brazil, also marking an all-time high, suggesting growing imports of alcoholic beverages.</p>
+<p>Medical instruments (HS 9018) appeared in 11 shipments, showing a 1,000% increase from 1 shipment in January 2025. While the tonnage data for this category is limited, the shipment count suggests increased medical equipment imports, potentially reflecting healthcare sector needs or humanitarian assistance programs.</p>
+<p>The commodity analysis reveals an import basket dominated by essentials—construction materials, energy products, and food staples—with manufactured goods and consumer products playing secondary roles. The year-over-year changes show selective growth in specific categories, often from small baselines, rather than broad-based expansion across the product mix.</p>
+<p><div class="viz-placeholder"><span class="viz-icon">&#128202;</span> Top 15 commodities by tonnage, with year-over-year comparison and market share</div></p>
+<p><div class="viz-placeholder"><span class="viz-icon">&#128202;</span> Top 15 commodities by TEU, showing containerized product mix</div></p>
+<p>---</p>
+<p><a id="part-iii"></a>
+<h2>Part III: Country Dynamics — USA Dominance Persists Despite Volume Declines</h2>
+<p>Haiti's import sourcing in January 2026 remained concentrated among a small number of key suppliers, with the USA maintaining its position as the dominant source across multiple metrics despite substantial year-over-year volume declines. The geographic distribution of imports reveals both the persistence of established trade relationships and the emergence of new suppliers in specific commodity categories.</p>
+<h3>United States: Dominant but Declining</h3>
+<p>The USA supplied 115.5 million kg (28.7% of Haiti's total tonnage), down 89.6% from January 2025's volumes. This dramatic percentage decline requires context: the January 2025 baseline appears to have been exceptionally high, and the January 2026 figure of 115.5 million kg sits within the range of typical monthly U.S. shipments to Haiti based on the broader 2025 data. The USA's tonnage share fell from 37.7% in January 2025 to 28.7% in January 2026, a loss of 9.1 percentage points.</p>
+<p>In TEU terms, the USA contributed 2,500 units (21.8% share), down 90.5% year-over-year, with its share declining from 26.1% to 21.8%—a loss of 4.2 percentage points. For shipments, the USA accounted for 2,400 (49.4% share), down 88.7%, though it maintained its dominant position in transaction frequency. Container counts reached 1,400 (19.9% share), down 90.0%, while bulk cargo shipments totaled 1,500 (95.5% share), down 86.9% but still representing near-total dominance of the vrac category.</p>
+<p>The USA ships to Haiti through 15 origin ports according to the data, with Houston leading at 44.3 million kg (369 TEU, 66 shipments, 276 containers, 3 bulk shipments). New Orleans contributed 29.6 million kg (88 TEU, 18 shipments, 49 containers, 4 bulk shipments). Darrow, Louisiana added 15.9 million kg (9 bulk shipments), while Mobile, Alabama and other Gulf Coast ports supplied smaller volumes.</p>
+<p>Breaking down U.S. exports by commodity reveals the diversity of the trade relationship. Petroleum products (HS 2710) accounted for 27.3 million kg, wheat (HS 1001) contributed 27.3 million kg, rice (HS 1006) totaled 30.6 million kg, and poultry (HS 0207) reached 7.1 million kg. The "commodities not specified" category (HS 9999) represented 9.5 million kg, down 84.8% from 62.4 million kg in January 2025—this decline in the catch-all category accounts for a significant portion of the overall U.S. tonnage reduction.</p>
+<p>The U.S. supply pattern reflects Haiti's dependence on North American sources for food staples, energy products, and diverse manufactured goods. The concentration of shipments through Gulf Coast ports underscores the logistics advantages of short shipping distances and established trade routes. The 49.4% share of total shipments (despite only 28.7% of tonnage) indicates the USA supplies a high volume of smaller, more frequent shipments compared to the bulk commodity flows from other sources.</p>
+<h3>Egypt: Cement Surge Drives Market Share Gain</h3>
+<p>Egypt emerged as Haiti's second-largest supplier by tonnage in January 2026, contributing 36.1 million kg (9.0% share)—a 9,560% increase from minimal January 2025 volumes. This represented an 8.8 percentage point gain in market share, the largest country-level shift in the data. In TEU terms, Egypt supplied 107 units (0.9% share), up 73.3%, while shipments totaled 23 (0.5% share), up 81.6%. Container counts reached 74 (1.1% share), up 428.6%, and bulk cargo included 4 shipments (0.3% share).</p>
+<p>Egypt ships to Haiti through 3 origin ports, with Alexandria accounting for 35.4 million kg (39 TEU, 10 shipments, 36 containers, 4 bulk shipments). The Egyptian supply consists almost entirely of Portland cement (HS 2523) at 32.9 million kg, with smaller volumes of ceramic bricks (HS 6901) at 651,600 kg, stainless steel (HS 7220) at 474,900 kg, and toilet paper (HS 4818) at 285,300 kg.</p>
+<p>The Egyptian cement arrived aboard bulk carriers operated by private shipping lines and delivered primarily to Port-au-Prince, with some volumes going to Cap-Haïtien. The emergence of Egypt as a major cement supplier represents a significant geographic diversification in Haiti's construction materials sourcing, potentially reflecting competitive pricing, favorable shipping terms, or new commercial relationships established during 2025.</p>
+<h3>Turkey: Construction Materials Specialist</h3>
+<p>Turkey supplied 38.5 million kg (9.6% share), down 91.5% year-over-year but maintaining a substantial absolute volume. In TEU terms, Turkey contributed 50 units (0.4% share), up 248.3%, while shipments totaled 16 (0.3% share), down 85.0%. Container counts reached 30 (0.4% share), down 86.3%, and bulk cargo included 3 shipments (0.2% share).</p>
+<p>Turkey ships to Haiti through 4 origin ports, with Iskenderun accounting for 20.1 million kg (1 bulk shipment) and Asbas contributing 18.0 million kg (2 bulk shipments). Turkish exports consist primarily of Portland cement (HS 2523) at 38.1 million kg, up 19.7% from 31.8 million kg in January 2025. Smaller volumes include corn (HS 1005) at 168,400 kg and various food products.</p>
+<p>The Turkish cement supply has persisted across multiple months in the 2025 data, suggesting an established trade relationship rather than a one-time transaction. The bulk shipments from Iskenderun and Asbas ports reflect Turkey's position as a major cement exporter to Caribbean markets, with Haiti representing one destination among several in the region.</p>
+<h3>China: Manufactured Goods Despite Overall Decline</h3>
+<p>China supplied 38.0 million kg (9.4% share), down 87.3% year-over-year, with its tonnage share increasing from 7.8% to 9.4%—a gain of 1.7 percentage points despite the absolute volume decline. In TEU terms, China contributed 3,000 units (26.7% share), down 88.2%, representing the second-largest TEU volume after the USA. Shipments totaled 1,000 (21.0% share), down 87.2%, while container counts reached 1,600 (23.1% share), down 88.6%. Bulk cargo included 9 shipments (0.6% share).</p>
+<p>China ships to Haiti through 12 origin ports, with Tianjin leading at 13.7 million kg (395 TEU, 90 shipments, 231 containers, 7 bulk shipments). Shanghai, Ningbo, Shenzhen, and other major ports contributed additional volumes. Chinese exports span a wide range of manufactured goods, with iron wire (HS 7217) at 4.8 million kg, motorcycles (HS 8711) at 3.1 million kg, paper products (HS 4820) at 1.4 million kg, and used clothing (HS 6309) at 2.3 million kg leading the category mix.</p>
+<p>The Chinese supply pattern reflects Haiti's dependence on Asian manufacturing for consumer goods, transportation equipment, and industrial products. The 26.7% TEU share (second only to the USA's 21.8%) underscores China's role in containerized trade, while the relatively low tonnage share indicates these are typically lighter, higher-value manufactured goods rather than bulk commodities.</p>
+<p>The year-over-year decline in Chinese volumes appears consistent with the broader pattern of reduced import activity in January 2025, with January 2026 representing a partial recovery. The specific commodity categories showing growth—motorcycles up 286.8%, wire up 5,558%, paper products up several thousand percent—reflect either inventory rebuilding, new commercial orders, or growth from very small baselines rather than fundamental shifts in trade patterns.</p>
+<h3>U.S. Virgin Islands: Petroleum Specialist</h3>
+<p>The U.S. Virgin Islands supplied 55.4 million kg (13.8% share), down 89.3% year-over-year, consisting almost entirely of petroleum products (HS 2710). The territory contributed 16 bulk shipments (1.0% share), down 91.2%, with no containerized cargo. All shipments originated from St. Croix and arrived via private bulk carriers.</p>
+<p>The Virgin Islands petroleum supply reflects the territory's role as a refining and transshipment hub for Caribbean energy markets. The 55.4 million kg in January 2026 represents a 55.7% increase from 35.6 million kg in January 2025, suggesting this particular supply relationship strengthened even as other U.S. flows declined. The concentration in bulk petroleum shipments makes the Virgin Islands a specialized supplier rather than a diversified trade partner.</p>
+<h3>Dominican Republic: Regional Neighbor with Diverse Flows</h3>
+<p>The Dominican Republic supplied 16.9 million kg (4.2% share), down 93.3% year-over-year, with its market share increasing from 2.2% to 4.2%—a gain of 2.0 percentage points. In TEU terms, the Dominican Republic contributed 201 units (1.8% share), down 94.6%, while shipments totaled 88 (1.8% share), down 93.6%. Container counts reached 112 (1.6% share), down 94.3%, and bulk cargo included 24 shipments (1.6% share).</p>
+<p>The Dominican Republic ships to Haiti through 3 origin ports, with Rio Haina accounting for 15.1 million kg (14 TEU, 9 shipments, 7 containers, 3 bulk shipments). Dominican exports include Portland cement (HS 2523) at 7.5 million kg, petroleum gases (HS 2711) at 7.7 million kg, and various food and consumer products in smaller volumes.</p>
+<p>The Dominican supply reflects the two nations' shared geography on Hispaniola and the relatively short shipping distances between ports. The diverse product mix—cement, petroleum gases, food products—suggests multiple commercial relationships rather than a single dominant commodity flow.</p>
+<h3>India: Coloring Matter and Rice</h3>
+<p>India supplied 15.0 million kg (3.7% share), down 80.1% year-over-year. In TEU terms, India contributed 896 units (7.9% share), down 81.7%, while shipments totaled 174 (3.6% share), down 85.6%. Container counts reached 650 (9.3% share), down 79.6%, with no bulk cargo.</p>
+<p>India ships to Haiti through 8 origin ports, with Mumbai, Chennai, and other major ports contributing volumes. Indian exports consist primarily of synthetic coloring matter (HS 3204) at 3.3 million kg, rice (HS 1006) at 4.2 million kg, ceramic bricks (HS 6901) at 2.6 million kg, and vegetable coloring matter (HS 3203) at 604,800 kg.</p>
+<p>The Indian supply pattern reflects the country's role as a supplier of industrial inputs (coloring matter for textiles and manufacturing), food staples (rice), and construction materials (ceramic products). The relatively high TEU share (7.9%) compared to tonnage share (3.7%) indicates these are predominantly containerized goods rather than bulk commodities.</p>
+<h3>Colombia: Sugar and Food Products</h3>
+<p>Colombia supplied 13.7 million kg (3.4% share), down 75.9% year-over-year. In TEU terms, Colombia contributed 818 units (7.2% share), down 77.4%, while shipments totaled 98 (2.0% share), down 78.6%. Container counts reached 544 (7.8% share), down 76.9%, with no bulk cargo in January 2026 (down from minimal prior-year volumes).</p>
+<p>Colombia ships to Haiti through 2 origin ports, with Buenaventura accounting for 11.5 million kg (684 TEU, 65 shipments, 445 containers). Colombian exports consist primarily of sugar (HS 1701) at 12.1 million kg, up 9.7% from 11.0 million kg in January 2025, making Colombia the largest sugar supplier to Haiti in the month.</p>
+<p>The Colombian sugar supply reflects established trade relationships and the country's position as a major sugar exporter. The year-over-year increase in sugar volumes, even as overall Colombian exports declined, suggests Haiti shifted sugar sourcing toward Colombia as Brazilian volumes collapsed.</p>
+<h3>Brazil: Meat Products Despite Sugar Collapse</h3>
+<p>Brazil supplied 9.9 million kg (2.5% share), down 89.2% year-over-year, with its market share declining from 7.4% to 2.5%—a loss of 4.9 percentage points. In TEU terms, Brazil contributed 633 units (5.6% share), down 88.8%, while shipments totaled 224 (4.6% share), down 87.7%. Container counts reached 381 (5.5% share), down 87.6%, with no bulk cargo.</p>
+<p>Brazil ships to Haiti through 4 origin ports, with Santos accounting for the majority of volumes. Brazilian exports showed a dramatic shift in composition: sugar (HS 1701) collapsed from 14.8 million kg to 130,900 kg (down 99.1%), while ceramic bricks (HS 6901) surged from 983,600 kg to 3.2 million kg (up 227.2%), pork (HS 0203) increased from 574,000 kg to 1.5 million kg (up 161.2%), and processed meat (HS 1601) rose from 981,800 kg to 1.4 million kg (up 43.8%).</p>
+<p>The Brazilian pattern suggests a fundamental shift in the trade relationship, with sugar flows redirected to other markets or disrupted by supply chain issues, while meat and construction material exports expanded. The net result was a substantial decline in overall Brazilian volumes, but a more diversified product mix among the remaining flows.</p>
+<h3>Guatemala: Sugar Surge</h3>
+<p>Guatemala supplied 8.3 million kg (2.0% share), down 83.9% year-over-year in percentage terms but showing a different pattern in commodity composition. In TEU terms, Guatemala contributed 178 units (1.6% share), down 89.0%, while shipments totaled 25 (0.5% share), down 84.2%. Container counts reached 128 (1.8% share), down 87.1%, and bulk cargo included 5 shipments (0.3% share).</p>
+<p>Guatemala ships to Haiti through 2 origin ports, with Puerto Cortes and Santo Tomas contributing volumes. Guatemalan exports consist primarily of sugar (HS 1701) at 7.7 million kg, up 313.2% from 1.9 million kg in January 2025, making Guatemala the second-largest sugar supplier after Colombia.</p>
+<p>The Guatemalan sugar surge partially offset the Brazilian collapse, suggesting Haiti's sugar importers actively sought alternative suppliers when Brazilian flows declined. The 313.2% increase represents a substantial expansion of an existing trade relationship rather than the establishment of a new one.</p>
+<h3>Smaller Suppliers: Specialized Roles</h3>
+<p>Beyond the top ten, several smaller suppliers played specialized roles. Pakistan supplied 6.5 million kg (1.7% share) of rice, down 41.5% from 11.1 million kg. Indonesia contributed 5.3 million kg (1.3% share) of palm oil, down 49.8% from 10.6 million kg. Nicaragua provided 5.2 million kg (1.3% share) of sugar. Panama supplied 2.7 million kg (0.7% share) across various categories, up 622.1% from 374,000 kg—a dramatic percentage increase that reflects growth from a small base.</p>
+<p>Thailand emerged with 262,000 kg (0.1% share), up 2,596% from 9,700 kg, with 56 TEU (0.5% share) and 9 shipments (0.2% share). The Thai supply consisted of diverse manufactured goods and food products, suggesting new commercial relationships or one-time orders rather than established trade flows.</p>
+<p>Chile contributed 114,400 kg (0.0% share), up 1,535% from 7,000 kg, with 7 TEU and 3 shipments. Vietnam supplied 2.1 million kg (0.5% share), up 521.3% from 338,000 kg, primarily in ceramic bricks and construction materials.</p>
+<p>The country analysis reveals a trade pattern dominated by essential commodity suppliers—the USA for food and energy, Egypt and Turkey for cement, China for manufactured goods—with secondary suppliers playing specialized roles in specific product categories. The year-over-year changes reflect both the volatility of bulk commodity flows and the selective recovery from depressed 2025 baselines.</p>
+<p><div class="viz-placeholder"><span class="viz-icon">&#128202;</span> Top 15 countries by tonnage, with year-over-year comparison and market share changes</div></p>
+<p><div class="viz-placeholder"><span class="viz-icon">&#128202;</span> Top 15 countries by TEU, showing containerized trade partners</div></p>
+<p>---</p>
+<p><a id="part-iv"></a>
+<h2>Part IV: Carrier & Shipping Analysis — Private Bulk Operators and Container Lines</h2>
+<p>Haiti's January 2026 imports moved through a diverse set of carriers, with private bulk operators dominating tonnage while major container lines controlled TEU flows. The carrier landscape reflects the dual nature of Haiti's import trade: bulk commodities shipped via specialized operators and containerized goods moved by global shipping lines.</p>
+<h3>Private Carriers: Bulk Commodity Specialists</h3>
+<p>Private Carrier - RVAM led all carriers in tonnage, moving 101.5 million kg (24.2% share), down 88.1% year-over-year. This carrier handled 51 bulk shipments (3.3% share), down 88.7%, with no containerized cargo. The RVAM volumes consisted primarily of petroleum products and other bulk commodities delivered to Port-au-Prince and other Haitian ports.</p>
+<p>NYK Line (Nippon Yusen Kaisha) ranked second in tonnage at 41.0 million kg (9.8% share), down 92.1% year-over-year. NYK handled 5 bulk shipments (0.3% share), down 92.6%, also with no containerized cargo. The NYK volumes likely included cement and other construction materials, given the carrier's specialization in bulk shipping.</p>
+<p>Private Carrier - MOS contributed 33.3 million kg (7.9% share), down 89.5%, through 2 bulk shipments (0.1% share). Private Carrier - TSA added 23.8 million kg (5.7% share), down 91.0%, via 11 bulk shipments (0.7% share). Private Carrier - JHM supplied 23.0 million kg (5.5% share), up 116.7%—the only major carrier showing year-over-year tonnage growth. This increase from 10.6 million kg to 23.0 million kg suggests JHM expanded its Haiti operations or secured new contracts during the period.</p>
+<p>Private Carrier - ADE moved 15.9 million kg (3.8% share), down 79.7%, through 9 bulk shipments (0.6% share). These private operators collectively handled approximately 238.5 million kg, representing 59.2% of Haiti's total January tonnage, underscoring the dominance of bulk commodity flows in the country's import trade.</p>
+<h3>Container Lines: CMA/CGM and MSC Lead</h3>
+<p>CMA/CGM led containerized flows with 2,700 TEU (23.6% share), down 84.4% year-over-year. The carrier moved 36.3 million kg (8.7% tonnage share) across 888 shipments (17.9% share) and 1,800 containers (24.9% share). CMA/CGM's volumes included diverse manufactured goods, food products, and consumer items sourced primarily from China, India, and other Asian origins.</p>
+<p>Mediterranean Shipping Company (MSC) ranked second in TEU at 2,200 units (19.4% share), down 87.0% year-over-year. MSC moved 34.0 million kg (8.1% tonnage share) across 431 shipments (8.7% share) and 1,500 containers (20.7% share). The carrier's volumes showed a similar product mix to CMA/CGM, reflecting the two lines' comparable market positions and service offerings.</p>
+<p>Maersk Line contributed 1,500 TEU (12.9% share), down 73.1% year-over-year. Maersk moved 23.6 million kg (5.6% tonnage share) across 353 shipments (7.1% share) and 936 containers (13.2% share). The carrier's smaller year-over-year decline compared to CMA/CGM and MSC suggests Maersk maintained relatively stronger volumes or gained market share during the period.</p>
+<p>Evergreen handled 1,300 TEU (11.5% share), down 92.7% year-over-year. The carrier moved 14.1 million kg (3.4% tonnage share) across 381 shipments (7.7% share) and 743 containers (10.5% share). Evergreen's steep decline mirrors the broader pattern of reduced containerized imports in January 2025, with January 2026 representing a partial recovery.</p>
+<p>These four container lines—CMA/CGM, MSC, Maersk, and Evergreen—collectively handled 7,700 TEU, representing 67.5% of Haiti's total containerized imports. This concentration reflects the global container shipping industry's oligopolistic structure, with a small number of major lines controlling the majority of trade routes.</p>
+<h3>Regional and Specialized Carriers</h3>
+<p>Crowley Liner Services contributed 129 TEU (1.1% share), down 96.8% year-over-year. Crowley moved cargo across 37 shipments (0.7% share) and 64 containers (0.9% share), specializing in U.S.-Caribbean trade routes. The carrier's steep decline suggests reduced demand for its services or loss of market share to larger global lines.</p>
+<p>King Ocean Services handled 294 TEU (2.5% share), down 96.1%, across 116 shipments (2.3% share) and 157 containers (2.2% share). Antillean Marine Shipping Corp contributed 344 TEU (3.0% share), down 93.6%, via 176 shipments (3.5% share) and 194 containers (2.7% share). These regional carriers serve niche markets and specific trade lanes, with their volumes reflecting the overall contraction in Haiti's import activity.</p>
+<p>National Shipping of America moved 310,400 kg (0.1% tonnage share), down 97.0%, with 50 TEU (0.4% share) and 39 containers (0.6% share). The carrier's small volumes and steep decline suggest it plays a minor role in Haiti's current import trade.</p>
+<p>Amerijet, an air cargo carrier, handled 42,100 kg (0.0% tonnage share), down 98.6%, across 102 shipments (2.1% share). The high shipment count relative to tonnage reflects air freight's focus on small, time-sensitive parcels rather than bulk cargo. The 98.6% decline suggests reduced air freight activity, potentially reflecting economic constraints or shifts to ocean shipping for cost reasons.</p>
+<h3>Carrier Market Share Dynamics</h3>
+<p>The carrier data reveals several notable patterns. First, the dominance of private bulk operators in tonnage (59.2% combined share) versus container lines' control of TEU (67.5% combined share) underscores the dual nature of Haiti's import trade. Bulk commodities—cement, petroleum, agricultural products—move via specialized operators, while manufactured goods and consumer products travel in containers aboard global shipping lines.</p>
+<p>Second, the year-over-year declines across nearly all carriers, ranging from 73.1% (Maersk) to 98.6% (Amerijet), reflect the depressed January 2025 baseline rather than a fundamental collapse in shipping services. The January 2026 volumes, while showing percentage increases, represent a return to more typical monthly levels based on the broader 2025 data.</p>
+<p>Third, the concentration of containerized flows among four major lines (CMA/CGM, MSC, Maersk, Evergreen) reflects both the global shipping industry's structure and Haiti's position as a relatively small market served by major carriers' regional routes. These lines operate regular services connecting Haiti to Asian, European, and North American ports, providing the infrastructure for diverse import flows.</p>
+<p>Fourth, the absence of significant market share shifts among container lines—all four major carriers declined by similar percentages—suggests stable competitive dynamics. No carrier appears to have gained or lost substantial market share during the period, indicating the year-over-year changes reflect overall demand fluctuations rather than competitive</p>
+</article>
+<section class="cta-section">
+<h2>Want More Detail?</h2>
+<p>This report is based on BOL (bill of lading) data from <strong>CargoFax</strong>. For granular access to individual shipments, importers, exporters, vessels, and ports of arrival, contact CargoFax or request a demo.</p>
+</section>
+<footer class="footer">
+<p>Haiti Trade Intelligence — Report A — Comprehensive | Data: BOL data from CargoFax</p>
+<p>Report Period: monthly_2026_01 | Generated: 2026-02-09 10:42</p>
+</footer>
+</body>
+</html>

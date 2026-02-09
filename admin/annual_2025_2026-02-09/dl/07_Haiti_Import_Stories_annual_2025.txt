@@ -1,0 +1,294 @@
+# Haiti Import Stories — annual_2025
+
+## Haiti imports (BOL-level)
+
+
+---
+
+## Story 1: USA — Tools, hand; hand-operate (HS 8204)
+*YoY >9,999% | YTD 52.0k kg | Share 0.0% | Source: Anomaly Detection*
+
+**Context:** The massive 2.6 million percent increase in hand tool imports from the USA to Haiti in 2025 likely reflects recovery and reconstruction efforts following years of political instability, gang violence, and infrastructure damage that had severely disrupted normal trade flows. This surge suggests either resumption of previously halted construction and rebuilding projects, or represents aid shipments of essential tools for humanitarian reconstruction efforts coordinated through U.S. assistance programs. The extreme growth rate indicates imports were virtually zero in the prior year, making this more of a restart of trade rather than organic growth.
+
+**Haiti Hand Tools Import Surge Reflects Reconstruction Efforts**
+
+Haiti's imports of hand-operated tools from the United States experienced an extraordinary surge in 2025, with shipment volumes reaching 52,000 kilograms compared to just 2 kilograms in the previous year. This represents a remarkable 2.6 million percent year-over-year increase, though the category maintains a negligible 0.0% share of Haiti's total import market.
+
+The dramatic spike in hand tool imports under HS code 8204 likely signals renewed reconstruction and development activities following years of severely constrained trade flows. Haiti's recent history of political instability, widespread gang violence, and deteriorating infrastructure had effectively paralyzed many construction and maintenance projects, reducing demand for basic tools to nearly zero levels.
+
+The scale of this increase suggests the resumption of previously halted rebuilding efforts or the arrival of substantial tool shipments through U.S. humanitarian assistance programs. Such tools are essential for infrastructure repair, housing reconstruction, and community development projects that have been delayed by security concerns and economic disruption.
+
+Bill of lading-level customs data tracking weight, container volumes, and individual shipments confirms this represents actual trade resumption rather than statistical anomaly. The minimal prior-year baseline indicates that normal commercial and aid-related tool flows had been virtually suspended, making 2025's volumes a restart of essential trade relationships.
+
+This surge reflects Haiti's critical need for basic construction and maintenance tools as stability gradually returns to certain regions, enabling communities and organizations to undertake long-overdue repair and development work supported by international assistance programs.
+
+---
+
+## Story 2: DOMINICAN REPUBLIC — Structures of iron or ste (HS 7308)
+*YoY >9,999% | YTD 15.7M kg | Share 0.4% | Source: Anomaly Detection*
+
+**Context:** This dramatic increase in steel structure imports from the Dominican Republic likely reflects Haiti's ongoing reconstruction efforts following the 2021 earthquake and continued infrastructure development needs, with Dominican suppliers being the most accessible source due to shared border access and established trade corridors. The growth may also indicate a shift toward sourcing construction materials regionally rather than from more distant suppliers, as Haiti works to rebuild critical infrastructure including buildings, bridges, and industrial facilities. The Dominican Republic's proximity and relatively stable manufacturing base makes it a natural partner for Haiti's construction material needs during this recovery period.
+
+**Haiti Steel Structure Imports Surge from Dominican Republic**
+
+Haiti's imports of iron and steel structures (HS 7308) from the Dominican Republic experienced extraordinary growth in 2025, reaching 15.7 million kilograms compared to just 17,600 kilograms in the previous year—representing a dramatic increase of 89,334%. This surge elevated the Dominican Republic's market share in Haiti's steel structure imports to 0.4% of total import volume.
+
+The massive uptick reflects Haiti's intensified infrastructure reconstruction and development efforts. Following years of economic challenges and natural disasters, including the devastating 2021 earthquake, Haiti has prioritized rebuilding critical infrastructure such as commercial buildings, bridges, and industrial facilities. Steel structures are essential components for these construction projects, supporting everything from warehouse frameworks to bridge spans.
+
+The Dominican Republic's emergence as a key supplier is strategically logical. The shared 376-kilometer border provides crucial advantages in transportation costs and delivery times compared to overseas suppliers. Established cross-border trade corridors and trucking networks enable efficient movement of heavy construction materials, while the Dominican Republic's relatively stable manufacturing sector can reliably meet Haiti's growing demand.
+
+This import pattern suggests a broader shift toward regional sourcing for construction materials. Rather than relying on distant suppliers with longer shipping times and higher costs, Haiti appears to be leveraging its geographic proximity to Dominican manufacturers. This trend likely benefits both nations—providing Haiti with accessible building materials for its reconstruction efforts while creating export opportunities for Dominican steel structure producers.
+
+The data indicates Haiti's construction sector is gaining momentum, with steel structure imports serving as a key indicator of infrastructure development activity.
+
+---
+
+## Story 3: USA — Portland cement, aluminou (HS 2523)
+*YoY >9,999% | YTD 36.1M kg | Share 0.9% | Source: Anomaly Detection*
+
+**Context:** The massive surge in Portland cement imports from the USA to Haiti in 2025 likely reflects reconstruction efforts following Haiti's ongoing political and security crises that have severely disrupted local cement production and construction activity. Haiti's domestic cement industry has faced significant challenges due to gang violence and infrastructure breakdowns, forcing increased reliance on imports to meet pent-up demand for housing, commercial, and infrastructure projects. The shift toward US sourcing may also indicate supply chain diversification away from traditional regional suppliers or take advantage of US aid-related procurement preferences for reconstruction materials.
+
+**Haiti Cement Imports Surge Dramatically in 2025**
+
+Haiti's imports of Portland cement from the United States experienced an unprecedented surge in 2025, with year-to-date volumes reaching 36.1 million kilograms compared to just 67,600 kilograms in the prior year. This represents a staggering year-over-year growth of 53,247.1%, according to bill-of-lading level customs data tracking weight, container volumes, and shipments.
+
+Despite this massive percentage increase, U.S. cement still represents a relatively modest 0.9% share of Haiti's total import market, indicating the scale of the country's overall import dependency and the dominance of other supply sources.
+
+The dramatic uptick in cement imports from the United States likely reflects Haiti's urgent reconstruction needs amid ongoing political instability and security challenges that have severely disrupted domestic cement production. Gang violence and infrastructure breakdowns have crippled local manufacturing capacity, forcing Haiti to rely increasingly on imported construction materials to meet pent-up demand for housing, commercial development, and critical infrastructure projects.
+
+The shift toward U.S. sourcing represents a notable change in Haiti's cement supply chain, potentially driven by several factors including diversification away from traditional regional suppliers, logistics considerations, or procurement preferences linked to international aid and reconstruction funding. U.S.-sourced materials may benefit from established shipping routes and financing mechanisms associated with bilateral aid programs.
+
+This cement import surge underscores Haiti's continued struggle to rebuild its construction sector and economy while managing severe internal security challenges that have disrupted normal commercial operations and industrial production capacity.
+
+---
+
+## Story 4: USA — Petroleum oils and oils o (HS 2709)
+*YoY >9,999% | YTD 6.3M kg | Share 0.2% | Source: Anomaly Detection*
+
+**Context:** The massive surge in petroleum oil imports from the USA to Haiti in 2025 likely reflects Haiti's critical need to rebuild fuel supply chains following years of severe gang violence that disrupted port operations and fuel distribution networks. This dramatic increase may also indicate Haiti's shift toward more reliable US suppliers as the country works to stabilize its energy infrastructure, particularly as the Caribbean nation has historically struggled with fuel shortages that have crippled hospitals, transportation, and basic services. The growth could represent recovery from an extremely low baseline in previous years when security concerns made fuel imports nearly impossible.
+
+**Haiti's Petroleum Imports from USA Surge in Recovery Effort**
+
+Haiti's petroleum oil imports from the United States experienced an extraordinary surge in 2025, with shipments reaching 6.3 million kilograms year-to-date compared to just 20,000 kilograms in the prior year. This represents a remarkable 31,468% year-over-year increase, though petroleum oils still account for only 0.2% of Haiti's total import market share.
+
+The massive uptick in petroleum imports reflects Haiti's urgent efforts to rebuild critical fuel supply infrastructure after years of severe disruption. Gang violence had previously paralyzed key port facilities and distribution networks, creating acute fuel shortages that crippled essential services including hospitals, transportation systems, and power generation across the Caribbean nation.
+
+This dramatic increase likely indicates a strategic pivot toward more reliable US suppliers as Haiti works to stabilize its energy security. The country has historically faced chronic fuel shortages that have had cascading effects on economic activity and basic services. The substantial growth from an extremely low baseline suggests that previous years' minimal import levels were largely due to security constraints that made regular fuel shipments nearly impossible.
+
+The customs data, tracked at bill-of-lading level including weight, container volumes, and shipment details, reveals the scale of Haiti's recovery efforts in the energy sector. While the percentage growth appears astronomical, it primarily reflects recovery from crisis-level lows rather than expansion beyond normal consumption needs.
+
+This import surge represents a critical step in Haiti's broader economic stabilization efforts, as reliable fuel access is fundamental to restoring basic infrastructure and services that citizens depend on daily.
+
+---
+
+## Story 5: CHINA — Iron or non-alloy steel;  (HS 7214)
+*YoY >9,999% | YTD 19.8M kg | Share 0.5% | Source: Anomaly Detection*
+
+**Context:** The dramatic surge in Haiti's steel imports from China likely reflects reconstruction and infrastructure needs following ongoing political instability and natural disasters that have plagued the country in recent years. This massive increase may also indicate a shift toward Chinese suppliers as traditional trade relationships with other partners face disruption, with China's competitive pricing and financing arrangements making it an attractive source for basic construction materials. The timing suggests Haiti is prioritizing rebuilding efforts, possibly supported by international aid or development programs that require substantial steel imports for housing, roads, and essential infrastructure projects.
+
+**Haiti's Steel Imports from China Surge Dramatically in 2025**
+
+Haiti experienced an unprecedented surge in iron and non-alloy steel imports from China during 2025, with shipments reaching 19.8 million kilograms compared to just 169,700 kilograms in the previous year. This represents an extraordinary year-over-year growth of 11,560.7%, marking one of the most significant shifts in the country's import patterns.
+
+Despite this massive increase, Chinese steel maintains a relatively modest 0.5% share of Haiti's total import market, indicating the scale of the country's overall import needs. The data, derived from bill-of-lading level customs records tracking weight, container volumes, and shipment details, reveals a fundamental shift in Haiti's steel sourcing strategy.
+
+This dramatic increase likely reflects Haiti's urgent infrastructure reconstruction requirements following years of political instability and natural disasters that have severely damaged the country's built environment. The surge suggests active rebuilding efforts focused on essential infrastructure including housing, transportation networks, and public facilities.
+
+China's emergence as a major steel supplier to Haiti appears driven by several factors: competitive pricing that aligns with Haiti's constrained budget conditions, flexible financing arrangements that accommodate the country's economic challenges, and reliable supply chains capable of meeting large-volume demands. This shift may also reflect disruptions to traditional trade relationships, making Chinese suppliers an increasingly attractive alternative.
+
+The timing and scale of these imports indicate that Haiti is prioritizing critical reconstruction projects, potentially supported by international development programs or aid initiatives requiring substantial quantities of basic construction materials to rebuild the nation's damaged infrastructure.
+
+---
+
+## Story 6: DOMINICAN REPUBLIC — Portland cement, aluminou (HS 2523)
+*YoY +686.6% | YTD 117.2M kg | Share 2.9% | Source: Anomaly Detection*
+
+**Context:** The dramatic 686% increase in Portland cement imports from Dominican Republic likely reflects Haiti's ongoing reconstruction and infrastructure development needs following years of political instability and natural disasters, with Dominican Republic being the most accessible and cost-effective supplier due to shared land border and established trade relationships. This surge may also indicate a shift toward more regional sourcing within the Caribbean as global supply chains remain disrupted, making the neighboring Dominican Republic's cement industry a reliable alternative to more distant suppliers.
+
+**Haiti's Cement Imports Surge as Reconstruction Demands Drive Regional Sourcing**
+
+Haiti's imports of Portland cement from the Dominican Republic experienced an extraordinary surge in 2025, with year-to-date volumes reaching 117.2 million kilograms compared to just 14.9 million kilograms in the previous year. This represents a remarkable 686.6% increase, highlighting the country's intensified reconstruction and infrastructure development activities.
+
+The dramatic uptick in cement imports reflects Haiti's ongoing efforts to rebuild and strengthen its infrastructure following years of political instability, natural disasters, and economic challenges. Portland cement, classified under HS code 2523, is essential for construction projects ranging from housing developments to critical infrastructure such as roads, bridges, and public facilities.
+
+Despite the massive volume increase, Dominican Republic cement maintains a relatively modest 2.9% share of Haiti's total import market, indicating the country's diverse sourcing needs across multiple product categories. However, the cement data reveals a strategic shift toward regional suppliers, with the Dominican Republic emerging as a preferred source due to practical advantages including shared land borders, established trade relationships, and reduced transportation costs compared to distant suppliers.
+
+The Dominican Republic's position as Haiti's primary cement supplier makes economic sense given the countries' geographic proximity and existing trade infrastructure. This regional sourcing pattern likely reflects broader supply chain adjustments, as Haitian importers prioritize reliability and cost-effectiveness in procurement decisions.
+
+The surge in cement imports signals positive momentum in Haiti's construction sector, suggesting increased investment in rebuilding efforts and infrastructure development projects essential for the country's long-term economic recovery and growth.
+
+---
+
+## Story 7: PANAMA — Portland cement, aluminou (HS 2523)
+*YoY +541.9% | YTD 64.4M kg | Share 1.6% | Source: Country-Commodity Growth*
+
+**Context:** Haiti's massive 541.9% increase in Portland cement imports from Panama likely reflects the country's ongoing reconstruction efforts following the devastating 2021 earthquake and subsequent infrastructure damage from political instability. Panama serves as a strategic transshipment hub for Caribbean trade, making it an accessible alternative cement source as Haiti works to rebuild housing, roads, and public facilities while potentially facing supply constraints or higher costs from traditional suppliers like the Dominican Republic or Colombia.
+
+**Haiti's Cement Imports from Panama Surge Amid Reconstruction Needs**
+
+Haiti's imports of Portland cement from Panama experienced extraordinary growth in 2025, with shipments reaching 64.4 million kilograms compared to just 10.0 million kilograms in the prior year—a dramatic 541.9% increase. This surge positions Panama as an emerging supplier in Haiti's cement market, though still representing a modest 1.6% share of total imports.
+
+The massive increase in cement imports aligns with Haiti's pressing reconstruction requirements following the devastating 2021 earthquake that destroyed thousands of homes and critical infrastructure. Political instability and gang violence have further damaged roads, bridges, and public facilities, creating sustained demand for construction materials as communities and organizations work to rebuild.
+
+Panama's role as a major Caribbean transshipment hub makes it an attractive cement source for Haiti. The country's strategic location and established shipping networks provide reliable access to construction materials when traditional suppliers face logistical challenges or capacity constraints. Panama's cement industry, supported by strong domestic production capabilities, appears well-positioned to serve Caribbean markets experiencing reconstruction demands.
+
+The customs data, tracked at the bill of lading level, captures shipments classified under HS code 2523 for Portland cement and aluminous cement. The substantial weight increase suggests either larger individual shipments or more frequent deliveries to meet Haiti's infrastructure needs.
+
+While Panama currently holds a small market share compared to Haiti's traditional cement suppliers, this year's growth trajectory indicates the potential for Panama to become a more significant player in Haiti's construction material supply chain as reconstruction efforts continue.
+
+---
+
+## Story 8: NETHERLAND ANTILLES — Petroleum oils and oils o (HS 2709)
+*YoY +363.9% | YTD 28.9M kg | Share 0.7% | Source: Country-Commodity Growth*
+
+**Context:** The dramatic 363.9% increase in petroleum oil imports from Netherlands Antilles (likely Curaçao) to Haiti likely reflects Haiti's ongoing fuel crisis and energy security challenges, which have intensified since 2021 due to political instability and disrupted supply chains from traditional sources. Caribbean refineries like those in Curaçao have become increasingly important alternative suppliers for Haiti as the country seeks to diversify its petroleum sourcing away from heavily disrupted traditional channels, particularly given Haiti's proximity to Dutch Caribbean territories and established regional trading relationships.
+
+**Haiti Significantly Increases Petroleum Imports from Netherlands Antilles**
+
+Haiti's petroleum oil imports from the Netherlands Antilles surged dramatically in 2025, reaching 28.9 million kilograms year-to-date compared to just 6.2 million kilograms in the previous year—a remarkable 363.9% increase. This growth represents one of the most significant shifts in Haiti's import patterns, though petroleum from the Netherlands Antilles still accounts for only 0.7% of the country's total imports by volume.
+
+The substantial increase reflects Haiti's ongoing efforts to diversify its petroleum supply sources amid persistent energy security challenges. The Netherlands Antilles, particularly Curaçao with its established refinery infrastructure, has emerged as an increasingly important supplier for Haiti's fuel needs. The geographic proximity of these Dutch Caribbean territories to Haiti, combined with existing regional trade relationships, makes them attractive alternative sources for petroleum products.
+
+This shift aligns with Haiti's broader strategy to reduce dependence on traditional petroleum suppliers and establish more resilient supply chains. The Caribbean region's refinery capacity and maritime logistics networks provide Haiti with accessible alternatives during periods of supply disruption from other sources.
+
+The customs data, tracked at the bill-of-lading level, captures shipments measured in both weight and container volumes, providing detailed visibility into this evolving trade relationship. While the percentage growth appears dramatic, it builds from a relatively small base, indicating that Netherlands Antilles suppliers are filling specific gaps in Haiti's petroleum supply rather than becoming dominant suppliers.
+
+This trend underscores Haiti's adaptive approach to energy procurement in a challenging regional context.
+
+---
+
+## Story 9: VIETNAM — Portland cement, aluminou (HS 2523)
+*YoY +161.6% | YTD 149.1M kg | Share 3.6% | Source: Anomaly Detection*
+
+**Context:** Haiti's dramatic 161.6% increase in Portland cement imports from Vietnam likely reflects the country's ongoing reconstruction needs following years of natural disasters and infrastructure challenges, combined with potential supply chain disruptions from traditional regional cement suppliers. Vietnam has become an increasingly competitive cement exporter globally due to its lower production costs, and Haitian importers may have shifted sourcing away from more expensive regional suppliers or those facing logistical constraints in the Caribbean trade routes.
+
+**Haiti Cement Imports from Vietnam Surge Amid Infrastructure Reconstruction**
+
+Haiti's cement imports from Vietnam experienced dramatic growth in 2025, with Portland cement and aluminous cement (HS 2523) shipments reaching 149.1 million kilograms year-to-date, representing a substantial 161.6% increase from the previous year's 57.0 million kilograms. This surge has elevated Vietnam to capture 3.6% of Haiti's total import market share.
+
+The remarkable growth in Vietnamese cement imports reflects Haiti's pressing infrastructure reconstruction needs following years of natural disasters, including devastating earthquakes and hurricanes that have severely damaged the country's built environment. Haiti's construction sector continues to face enormous demands for rebuilding homes, schools, hospitals, and critical infrastructure across the country.
+
+Vietnam's emergence as a significant cement supplier to Haiti demonstrates the global competitiveness of Vietnamese cement manufacturers, who benefit from lower production costs and efficient export capabilities. This trade relationship appears to address supply chain challenges that may have affected Haiti's traditional cement sources in the Caribbean region and Latin America.
+
+The shift toward Vietnamese cement imports also suggests Haitian importers are diversifying their supply chains to secure more reliable and cost-effective building materials. Vietnam's cement industry has expanded its global reach significantly, leveraging competitive pricing and established shipping networks to serve markets across the Americas.
+
+This import pattern underscores both Haiti's ongoing reconstruction imperatives and the evolving dynamics of international cement trade, where Caribbean nations increasingly source construction materials from Asian suppliers offering competitive advantages in price and availability. The substantial volume increase indicates sustained construction activity despite Haiti's challenging economic environment.
+
+---
+
+## Story 10: USA — Wheat and meslin (HS 1001)
+*YoY +135.2% | YTD 220.7M kg | Share 5.4% | Source: Anomaly Detection*
+
+**Context:** Haiti's wheat imports from the USA likely surged due to increased food insecurity and humanitarian needs following ongoing political instability and gang violence that has disrupted local agricultural production and distribution networks. The significant growth may also reflect a shift toward more reliable US suppliers amid global wheat market volatility, as Caribbean nations like Haiti depend heavily on wheat imports for basic bread and food staples. Additionally, potential humanitarian aid shipments or food assistance programs from the US could have contributed to this substantial increase in wheat imports.
+
+**Haiti's Wheat Imports from USA Surge Amid Food Security Challenges**
+
+Haiti's wheat and meslin imports from the United States experienced dramatic growth in 2025, with year-to-date volumes reaching 220.7 million kilograms compared to 93.9 million kilograms in the prior year—representing a substantial 135.2% increase. Despite this growth, US wheat maintained a 5.4% share of Haiti's total import market, according to bill-of-lading level customs data tracking weight, containers, and shipments.
+
+This surge in wheat imports reflects Haiti's deepening food security crisis, driven by persistent political instability and escalating gang violence that has severely disrupted domestic agricultural production and food distribution networks. The Caribbean nation's heavy reliance on wheat imports for basic bread and food staples has intensified as local farming communities face displacement and reduced cultivation capacity.
+
+The significant increase likely stems from multiple factors, including Haiti's strategic shift toward more reliable US suppliers amid global wheat market volatility. American wheat provides greater supply chain stability compared to alternative sources, particularly crucial given Haiti's vulnerable position in international food markets.
+
+Humanitarian considerations may have also contributed to the import surge, as food assistance programs and emergency aid shipments from the United States have become increasingly vital to address widespread hunger. The more than doubled import volume suggests coordinated efforts to meet both commercial demand and humanitarian needs.
+
+This trend underscores Haiti's growing dependence on food imports as domestic agricultural capacity remains constrained by ongoing security challenges, making reliable wheat supplies from the US essential for maintaining basic food availability across the country.
+
+---
+
+## Story 11: INDIA — Bricks, blocks, tiles and (HS 6901)
+*YoY +122.0% | YTD 13.5M kg | Share 0.3% | Source: Country-Commodity Growth*
+
+**Context:** The significant 122% increase in Haiti's brick and tile imports from India likely reflects the country's ongoing reconstruction needs following years of natural disasters, political instability, and infrastructure damage that have created substantial demand for building materials. India has become an increasingly competitive supplier of construction materials to Caribbean markets due to its cost advantages and expanding export capacity, potentially displacing traditional suppliers from the region or other countries. This growth may also indicate Haiti's construction sector showing signs of recovery, with developers and aid organizations sourcing affordable building materials from India's well-established ceramics and construction materials industry.
+
+**Haiti's Construction Material Imports from India Surge Amid Reconstruction Needs**
+
+Haiti's imports of bricks, blocks, and tiles from India experienced remarkable growth in 2025, with shipment volumes more than doubling compared to the previous year. Year-to-date customs data shows imports reaching 13.5 million kilograms, representing a substantial 122% increase from 6.1 million kilograms in the prior year period.
+
+Despite this dramatic growth rate, these construction materials from India still represent a modest 0.3% share of Haiti's total import volume, indicating significant potential for further expansion. The surge reflects Haiti's persistent reconstruction demands following years of natural disasters, political instability, and deteriorating infrastructure that have created acute shortages of building materials across the country.
+
+India's emergence as a key supplier highlights the South Asian nation's growing competitiveness in Caribbean construction material markets. Indian manufacturers have leveraged cost advantages and expanded export capacity to penetrate markets traditionally served by regional suppliers or other international sources. The ceramics and construction materials sector in India has developed sophisticated production capabilities that meet international quality standards while maintaining competitive pricing structures.
+
+This import trend suggests Haiti's construction sector may be showing signs of recovery, with local developers, international aid organizations, and reconstruction projects increasingly sourcing affordable building materials from India's established manufacturing base. The significant volume increase captured in bill-of-lading level customs data demonstrates sustained demand for basic construction inputs, essential for addressing Haiti's extensive housing and infrastructure needs.
+
+The growth pattern indicates India has successfully positioned itself as a reliable alternative supplier for Haiti's construction material requirements.
+
+---
+
+## Story 12: USA — Meat and edible offal of  (HS 207)
+*YoY +110.4% | YTD 55.9M kg | Share 1.4% | Source: Country-Commodity Growth*
+
+**Context:** The significant increase in meat and edible offal imports from the USA likely reflects Haiti's continued heavy reliance on food imports amid ongoing domestic agricultural challenges and limited local meat production capacity. This growth may also indicate recovery in import volumes as trade flows normalize following recent periods of economic and political instability that previously constrained Haiti's ability to finance essential food imports. The USA remains Haiti's dominant trading partner, and increased meat imports could signal either improved economic conditions allowing for higher protein consumption or population displacement creating concentrated demand in urban areas with better port access.
+
+**Haiti Meat Import Surge Reflects Economic Recovery and Food Security Challenges**
+
+Haiti's imports of meat and edible offal from the United States surged dramatically in 2025, with year-to-date volumes reaching 55.9 million kilograms compared to 26.6 million kilograms in the previous year—representing a substantial 110.4% increase. Despite this growth, meat imports constitute just 1.4% of Haiti's total import portfolio, highlighting the country's diverse import dependency.
+
+The surge in meat imports from the USA underscores Haiti's persistent reliance on foreign food sources amid chronic domestic agricultural constraints. Limited local livestock production capacity and inadequate rural infrastructure continue to restrict Haiti's ability to meet domestic protein demand through local production. The dramatic year-over-year increase suggests a potential recovery in Haiti's import financing capabilities following periods of economic disruption that previously constrained essential food purchases.
+
+BOL-level customs data reveals this import growth spans multiple shipment categories, indicating broad-based demand rather than isolated large-volume transactions. The concentration of meat imports from the USA reinforces existing trade patterns, with the United States serving as Haiti's primary trading partner and a critical source for food security.
+
+This import surge may reflect improving economic conditions enabling higher protein consumption among Haiti's urban population, or alternatively, increased demand driven by internal displacement concentrating populations in port-accessible areas. The substantial volume increase also suggests that meat imports are playing an increasingly important role in addressing Haiti's food security challenges, compensating for persistent gaps in domestic agricultural production capacity.
+
+The trend indicates Haiti's continued integration into regional food supply chains while highlighting ongoing vulnerabilities in local food systems.
+
+---
+
+## Story 13: USA — Wood sawn or chipped leng (HS 4407)
+*YoY +107.8% | YTD 26.4M kg | Share 0.6% | Source: Country-Commodity Growth*
+
+**Context:** The significant increase in wood imports from the USA to Haiti likely reflects the country's ongoing reconstruction efforts following years of political instability, natural disasters, and infrastructure damage that have created substantial demand for building materials. Haiti's construction sector has been gradually recovering, with international aid and development projects driving increased need for lumber and processed wood products. The strong growth may also indicate Haiti's continued reliance on US suppliers due to geographic proximity, established trade relationships, and potentially preferential trade terms under regional agreements, making American wood products more accessible than alternatives from other regions.
+
+**Haiti Wood Import Growth Reflects Construction Sector Recovery**
+
+Haiti's imports of sawn and chipped wood from the United States surged dramatically in 2025, with year-to-date volumes reaching 26.4 million kilograms compared to 12.7 million kilograms in the prior year—representing exceptional growth of 107.8%. This category of wood products (HS code 4407) now accounts for 0.6% of Haiti's total import volume by weight.
+
+The doubling of wood imports from the US signals strengthening activity in Haiti's construction sector, which has faced years of challenges from political instability, natural disasters, and deteriorating infrastructure. The substantial increase in lumber and processed wood imports suggests ongoing reconstruction efforts are gaining momentum, driven by both international development projects and gradual economic stabilization.
+
+Bill of lading-level customs data reveals this growth through measurable increases in shipment volumes, container counts, and total TEU movements, indicating sustained demand rather than isolated large orders. The consistent flow of wood products demonstrates Haiti's construction industry's growing capacity to absorb building materials.
+
+Geographic proximity and established trade relationships continue to favor US suppliers in Haiti's wood import market. American lumber products benefit from shorter shipping distances, familiar supply chains, and potentially favorable trade terms that make them competitive against alternative sources. The preference for US wood products also reflects quality standards and specifications that align with Haiti's reconstruction requirements.
+
+This import surge underscores Haiti's gradual economic recovery and the critical role that building materials play in the country's infrastructure development efforts, positioning the construction sector as a key driver of increased trade activity.
+
+---
+
+## Story 14: CHINA — Commodities not specified (HS 9999)
+*YoY +103.7% | YTD 55.7M kg | Share 1.4% | Source: Country-Commodity Growth*
+
+**Context:** Haiti's dramatic 103.7% increase in unspecified commodity imports from China likely reflects the country's continued economic recovery and reconstruction efforts following years of political instability and natural disasters, driving demand for Chinese manufactured goods, construction materials, and consumer products. The growth may also indicate increased reliance on Chinese suppliers as traditional trade relationships with the US and other partners remain constrained by Haiti's ongoing security challenges and port disruptions. Additionally, China's expanding Belt and Road Initiative presence in the Caribbean region has facilitated easier trade financing and logistics arrangements for Haitian importers seeking cost-effective alternatives to more expensive Western suppliers.
+
+**Haiti's Unspecified Imports from China Double in 2025**
+
+Haiti's imports of unspecified commodities from China surged dramatically in 2025, with year-to-date shipments reaching 55.7 million kilograms compared to 27.3 million kilograms in the previous year—representing a substantial 103.7% increase. Despite this significant growth, these imports maintain a relatively modest 1.4% share of Haiti's total import market.
+
+The surge in unspecified Chinese goods likely reflects Haiti's ongoing economic recovery and reconstruction needs following years of political instability and natural disasters. As the country works to rebuild infrastructure and meet basic consumer demands, Chinese suppliers have become increasingly attractive due to their competitive pricing and flexible trade arrangements.
+
+This growth pattern suggests Haitian importers are diversifying their supply chains, potentially turning to Chinese manufacturers for essential goods including construction materials, electronics, textiles, and household products. The increase may also indicate expanding access to Chinese trade financing and improved logistics networks, as China strengthens its economic presence in the Caribbean region through various development initiatives.
+
+The substantial weight increase—more than doubling from the previous year—points to significant demand for manufactured goods and materials needed for Haiti's economic stabilization efforts. Traditional trade relationships with Western partners have faced constraints due to ongoing security challenges and port disruptions, making Chinese suppliers an increasingly viable alternative.
+
+While the "unspecified commodities" classification limits detailed analysis, the sheer volume increase demonstrates China's growing role as a key supplier to Haiti's import market, reflecting broader shifts in Caribbean trade patterns and Haiti's efforts to secure reliable, cost-effective supply chains during its recovery period.
+
+---
+
+## Story 15: BRAZIL — Meat and edible offal of  (HS 207)
+*YoY +67.2% | YTD 20.1M kg | Share 0.5% | Source: Country-Commodity Growth*
+
+**Context:** Haiti's +67.2% increase in meat imports from Brazil likely reflects the country's ongoing food security challenges and heavy reliance on imported protein, particularly as local livestock production remains limited due to infrastructure constraints and economic instability. Brazil's competitive pricing for meat products, combined with established South-South trade relationships in the Caribbean region, makes it an attractive alternative protein source for Haiti's import-dependent food system. The growth may also indicate recovery in purchasing power or humanitarian food assistance programs sourcing from cost-effective Brazilian suppliers.
+
+**Haiti's Meat Imports from Brazil Surge 67% in 2025**
+
+Haiti's imports of meat and edible offal from Brazil experienced significant growth in 2025, with year-to-date volumes reaching 20.1 million kilograms compared to 12.0 million kilograms in the prior year—a substantial 67.2% increase. This growth occurred despite meat products representing only 0.5% of Haiti's total import market share.
+
+The dramatic expansion in Brazilian meat imports reflects Haiti's persistent food security challenges and critical dependence on foreign protein sources. Local livestock production remains severely constrained by inadequate infrastructure, limited feed availability, and ongoing economic instability that has plagued the country's agricultural sector.
+
+Brazil's emergence as a key supplier aligns with broader South-South trade dynamics in the Caribbean region. Brazilian meat exporters offer competitive pricing structures that appeal to Haiti's cost-sensitive import market, where affordability often determines sourcing decisions for essential food commodities.
+
+The substantial volume increase may indicate several concurrent factors: potential improvements in Haiti's purchasing capacity, expanded humanitarian food assistance programs utilizing Brazilian suppliers, or strategic diversification away from traditional North American protein sources. BOL-level customs data tracking weight, TEU measurements, shipments, and container flows confirms the robust nature of this trade relationship.
+
+This growth trajectory underscores Haiti's structural reliance on imported protein to meet domestic consumption needs. With local production capacity remaining limited, Brazilian meat products provide a crucial alternative protein source for Haiti's import-dependent food system, helping address nutritional requirements amid ongoing economic and infrastructure challenges that continue to constrain domestic agricultural development.
+
+---
+
+## Methodology
+Stories selected from ML anomaly detection, statistical significance (Z-score), and country-HS growth. Narratives generated with Claude. Data: Haiti BOL customs; weight (kg), TEU, shipments, containers.

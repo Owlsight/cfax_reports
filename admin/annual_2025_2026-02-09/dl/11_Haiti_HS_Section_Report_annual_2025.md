@@ -1,0 +1,225 @@
+```
+==============================================================================================================
+HAITI IMPORTS BY HS SECTION - 2025_annual
+==============================================================================================================
+
+Report period: 2025_annual | Prior year: 2024
+YTD through month 12
+Total sections with data: 21
+
+--------------------------------------------------------------------------------------------------------------
+SECTION OVERVIEW (sorted by section number)
+--------------------------------------------------------------------------------------------------------------
+Sec    Name                                                      Share%           YTD kg       YoY%
+--------------------------------------------------------------------------------------------------------------
+I      Live Animals; Animal Products                               4.4%     178,278,553     +29.9%
+II     Vegetable Products                                         18.3%     747,696,066      -9.5%
+III    Animal or Vegetable Fats and Oils and Their Cleavage P      3.2%     132,946,959      -0.0%
+IV     Prepared Foodstuffs; Beverages, Spirits, and Vinegar;       7.8%     320,574,880     -12.4%
+V      Mineral Products                                           45.0%   1,842,209,827     +16.7%
+VI     Products of the Chemical or Allied Industries               3.0%     122,651,119      -9.4%
+VII    Plastics and Articles Thereof Rubber and Articles Ther      1.0%      41,434,512     +27.7%
+VIII   Raw Hides and Skins, Leather, Furskins and Articles Th      0.0%       1,139,432     +76.9%
+IX     Wood and Articles of Wood; Wood Charcoal; Cork and Art      1.1%      46,809,243    +117.7%
+X      Pulp of Wood or of Other Fibrous Cellulosic Material;       0.5%      20,434,238     +31.4%
+XI     Textile and Textile Articles                                1.4%      57,692,486      +9.4%
+XII    Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking       0.4%      14,913,980     +66.6%
+XIII   Articles of Stone, Plaster, Cement, Asbestos, Mica or       1.6%      64,124,165     +58.3%
+XV     Base Metals and Articles of Base Metal                      2.9%     118,485,192    +295.5%
+XVI    Machinery and Mechanical Appliances; Electrical Equipm      0.9%      36,663,067      +1.3%
+XVII   Vehicles, Aircraft, Vessels and Associated Transport E      1.1%      46,200,836     -73.0%
+XVIII  Optical, Photographic, Cinematographic, Measuring, Che      0.0%         855,431     +60.2%
+XX     Miscellaneous Manufactured Articles                         0.4%      14,781,134     +72.8%
+XXI    Works of Art, Collectors' Pieces and Antiques               0.0%          11,227      +0.8%
+XXII   Special Classification Provisions; Temporary Legislati      6.9%     283,759,914     -13.7%
+Other  0                                                           0.0%          18,810 +1881000.0%
+
+--------------------------------------------------------------------------------------------------------------
+TOP SECTIONS BY VOLUME (YTD kg)
+--------------------------------------------------------------------------------------------------------------
+ 1. Section V: Mineral Products - 1,842,209,827 kg (45.0%)
+ 2. Section II: Vegetable Products - 747,696,066 kg (18.3%)
+ 3. Section IV: Prepared Foodstuffs; Beverages, Spirits, and  - 320,574,880 kg (7.8%)
+ 4. Section XXII: Special Classification Provisions; Temporary  - 283,759,914 kg (6.9%)
+ 5. Section I: Live Animals; Animal Products - 178,278,553 kg (4.4%)
+ 6. Section III: Animal or Vegetable Fats and Oils and Their C - 132,946,959 kg (3.2%)
+ 7. Section VI: Products of the Chemical or Allied Industries - 122,651,119 kg (3.0%)
+ 8. Section XV: Base Metals and Articles of Base Metal - 118,485,192 kg (2.9%)
+ 9. Section XIII: Articles of Stone, Plaster, Cement, Asbestos, - 64,124,165 kg (1.6%)
+10. Section XI: Textile and Textile Articles - 57,692,486 kg (1.4%)
+
+--------------------------------------------------------------------------------------------------------------
+TOP SECTIONS BY GROWTH (YoY %)
+--------------------------------------------------------------------------------------------------------------
+ 1. Section XV: Base Metals and Articles of Base Metal - +295.5% (YTD 118,485,192 kg)
+ 2. Section IX: Wood and Articles of Wood; Wood Charcoal; Cor - +117.7% (YTD 46,809,243 kg)
+ 3. Section VIII: Raw Hides and Skins, Leather, Furskins and Ar - +76.9% (YTD 1,139,432 kg)
+ 4. Section XX: Miscellaneous Manufactured Articles - +72.8% (YTD 14,781,134 kg)
+ 5. Section XII: Footwear, Headgear, Umbrellas, Sun Umbrellas, - +66.6% (YTD 14,913,980 kg)
+ 6. Section XVIII: Optical, Photographic, Cinematographic, Measu - +60.2% (YTD 855,431 kg)
+ 7. Section XIII: Articles of Stone, Plaster, Cement, Asbestos, - +58.3% (YTD 64,124,165 kg)
+ 8. Section X: Pulp of Wood or of Other Fibrous Cellulosic M - +31.4% (YTD 20,434,238 kg)
+ 9. Section I: Live Animals; Animal Products - +29.9% (YTD 178,278,553 kg)
+10. Section VII: Plastics and Articles Thereof Rubber and Arti - +27.7% (YTD 41,434,512 kg)
+
+==============================================================================================================
+DRILL-DOWN: TOP 5 HS CODES (4-DIGIT) PER SECTION
+==============================================================================================================
+
+--- Section I: Live Animals; Animal Products ---
+HS4      Description                               Sec%   Tot%        YTD kg       Prev kg     YoY%
+HS-0207  Meat and edible offal of poultry; of     48.9%   2.1%   87,176,687   49,261,153   +77.0%
+HS-0402  Milk and cream; concentrated or conta    34.2%   1.5%   61,040,297   59,637,272    +2.4%
+HS-0203  Meat of swine; fresh, chilled or froz     9.8%   0.4%   17,422,509   18,351,956    -5.1%
+HS-0302  Fish; fresh or chilled, excluding fis     4.7%   0.2%    8,305,772    6,024,078   +37.9%
+HS-0406  Cheese and curd                           0.7%   0.0%    1,235,635      597,926  +106.7%
+
+--- Section II: Vegetable Products ---
+HS4      Description                               Sec%   Tot%        YTD kg       Prev kg     YoY%
+HS-1006  Rice                                     63.8%  11.7%  477,106,043  518,389,761    -8.0%
+HS-1001  Wheat and meslin                         29.5%   5.4%  220,742,705  268,435,426   -17.8%
+HS-0703  Onions, shallots, garlic, leeks and o     3.3%   0.6%   25,044,098   18,231,221   +37.4%
+HS-1107  Malt; whether or not roasted              1.1%   0.2%    8,294,597    7,107,836   +16.7%
+HS-0713  Vegetables, leguminous; shelled, whet     0.6%   0.1%    4,305,890    5,913,545   -27.2%
+
+--- Section III: Animal or Vegetable Fats and Oils and Their Cleavage Pr ---
+HS4      Description                               Sec%   Tot%        YTD kg       Prev kg     YoY%
+HS-1511  Palm oil and its fractions; whether o    70.2%   2.3%   93,262,873   96,897,806    -3.8%
+HS-1515  Fixed vegetable fats and oils (includ    11.8%   0.4%   15,717,486   12,418,822   +26.6%
+HS-1516  Animal or vegetable fats and oils and    10.7%   0.3%   14,246,618   19,237,252   -25.9%
+HS-1507  Soya-bean oil and its fractions; whet     5.5%   0.2%    7,288,109       73,648 +9795.9%
+HS-1517  Margarine; edible mixtures or prepara     1.8%   0.1%    2,353,572    4,143,977   -43.2%
+
+--- Section IV: Prepared Foodstuffs; Beverages, Spirits, and Vinegar; T ---
+HS4      Description                               Sec%   Tot%        YTD kg       Prev kg     YoY%
+HS-1701  Cane or beet sugar and chemically pur    54.7%   4.3%  175,483,153  227,563,422   -22.9%
+HS-2106  Food preparations not elsewhere speci    21.0%   1.6%   67,238,110   78,761,158   -14.6%
+HS-2203  Beer made from malt                       4.2%   0.3%   13,422,617    9,892,107   +35.7%
+HS-1604  Prepared or preserved fish; caviar an     3.6%   0.3%   11,390,344   10,227,037   +11.4%
+HS-1905  Bread, pastry, cakes, biscuits, other     3.2%   0.3%   10,348,541    8,825,343   +17.3%
+
+--- Section V: Mineral Products ---
+HS4      Description                               Sec%   Tot%        YTD kg       Prev kg     YoY%
+HS-2523  Portland cement, aluminous cement (ci    57.2%  25.7% 1,053,492,377  810,035,341   +30.1%
+HS-2710  Petroleum oils and oils from bitumino    36.4%  16.4%  669,836,068  640,030,280    +4.7%
+HS-2711  Petroleum gases and other gaseous hyd     3.3%   1.5%   61,594,505   59,642,129    +3.3%
+HS-2709  Petroleum oils and oils obtained from     2.2%   1.0%   41,237,168   59,327,272   -30.5%
+HS-2501  Salt (including table salt and denatu     0.8%   0.4%   14,458,927    7,780,797   +85.8%
+
+--- Section VI: Products of the Chemical or Allied Industries ---
+HS4      Description                               Sec%   Tot%        YTD kg       Prev kg     YoY%
+HS-3824  Prepared binders for foundry moulds o    30.3%   0.9%   37,156,427   44,754,112   -17.0%
+HS-3401  Soap; organic surface-active preparat    11.6%   0.3%   14,178,349   14,363,950    -1.3%
+HS-3204  Synthetic organic colouring matter an     6.9%   0.2%    8,451,698   13,253,960   -36.2%
+HS-3808  Insecticides, rodenticides, fungicide     5.4%   0.2%    6,616,490    5,700,529   +16.1%
+HS-3304  Cosmetic and toilet preparations; bea     4.9%   0.1%    6,062,013    4,518,619   +34.2%
+
+--- Section VII: Plastics and Articles Thereof Rubber and Articles There ---
+HS4      Description                               Sec%   Tot%        YTD kg       Prev kg     YoY%
+HS-3901  Polymers of ethylene, in primary form    33.5%   0.3%   13,899,919   13,082,953    +6.2%
+HS-4011  New pneumatic tyres, of rubber           27.9%   0.3%   11,580,668    6,364,945   +81.9%
+HS-3923  Plastic articles for the conveyance o    20.2%   0.2%    8,358,780    5,912,373   +41.4%
+HS-3926  Articles of plastics and articles of      7.8%   0.1%    3,211,746    3,269,319    -1.8%
+HS-3917  Tubes, pipes and hoses and fittings t     3.1%   0.0%    1,264,803      648,462   +95.0%
+
+--- Section VIII: Raw Hides and Skins, Leather, Furskins and Articles The ---
+HS4      Description                               Sec%   Tot%        YTD kg       Prev kg     YoY%
+HS-4202  Trunks; suit, camera, jewellery, cutl    89.1%   0.0%    1,015,369      537,740   +88.8%
+HS-4203  Articles of apparel and clothing acce    10.9%   0.0%      124,064       52,689  +135.5%
+
+--- Section IX: Wood and Articles of Wood; Wood Charcoal; Cork and Arti ---
+HS4      Description                               Sec%   Tot%        YTD kg       Prev kg     YoY%
+HS-4407  Wood sawn or chipped lengthwise, slic    56.9%   0.7%   26,633,404   14,211,583   +87.4%
+HS-4412  Plywood, veneered panels and similar     30.1%   0.3%   14,095,371    5,261,892  +167.9%
+HS-4411  Fibreboard of wood or other ligneous      6.7%   0.1%    3,159,451    1,057,084  +198.9%
+HS-4418  Builders' joinery and carpentry of wo     3.8%   0.0%    1,764,973      634,083  +178.4%
+HS-4421  Wooden articles n.e.c. in heading no.     1.7%   0.0%      807,920      210,353  +284.1%
+
+--- Section X: Pulp of Wood or of Other Fibrous Cellulosic Material; W ---
+HS4      Description                               Sec%   Tot%        YTD kg       Prev kg     YoY%
+HS-4809  Carbon paper, self copy paper, and ot    34.2%   0.2%    6,978,673    2,845,149  +145.3%
+HS-4819  Cartons, boxes, cases, bags and the l    25.0%   0.1%    5,100,649    3,712,861   +37.4%
+HS-4820  Registers, account books, diaries and    14.4%   0.1%    2,947,717    5,817,121   -49.3%
+HS-4818  Toilet paper, width 36cm or less or c    10.6%   0.1%    2,156,630    1,209,993   +78.2%
+HS-4802  Uncoated paper and paperboard, used f     4.1%   0.0%      836,683      470,354   +77.9%
+
+--- Section XI: Textile and Textile Articles ---
+HS4      Description                               Sec%   Tot%        YTD kg       Prev kg     YoY%
+HS-6309  Textiles; worn clothing and other wor    63.7%   0.9%   36,760,555   29,116,015   +26.3%
+HS-5603  Nonwovens; whether or not impregnated    22.8%   0.3%   13,143,274   15,715,415   -16.4%
+HS-6305  Sacks and bags, of a kind used for th     3.3%   0.0%    1,910,075    1,576,992   +21.1%
+HS-6108  Slips, petticoats, briefs, panties, n     2.6%   0.0%    1,518,185      717,843  +111.5%
+HS-6204  Dairy produce; birds' eggs; natural h     2.3%   0.0%    1,298,133      219,244  +492.1%
+
+--- Section XII: Footwear, Headgear, Umbrellas, Sun Umbrellas, Walking S ---
+HS4      Description                               Sec%   Tot%        YTD kg       Prev kg     YoY%
+HS-6405  Footwear; other footwear n.e.c. in ch    59.8%   0.2%    8,922,836    5,125,391   +74.1%
+HS-6704  Wigs, false beards, eyebrows and eyel    26.7%   0.1%    3,980,429    2,117,438   +88.0%
+HS-6403  Footwear; with outer soles of rubber,    13.0%   0.0%    1,932,977    1,626,581   +18.8%
+HS-6505  Hats and other headgear; knitted or c     0.3%   0.0%       43,230            0 +4323000.0%
+HS-6601  Umbrellas; sun umbrellas (including w     0.2%   0.0%       27,690       84,044   -67.1%
+
+--- Section XIII: Articles of Stone, Plaster, Cement, Asbestos, Mica or S ---
+HS4      Description                               Sec%   Tot%        YTD kg       Prev kg     YoY%
+HS-6901  Bricks, blocks, tiles and other ceram    76.8%   1.2%   49,261,692   31,413,341   +56.8%
+HS-7010  Carboys, bottles, flasks, jars, pots,    15.9%   0.2%   10,174,118    5,374,826   +89.3%
+HS-7016  Glass; paving blocks, slabs, bricks,      3.0%   0.0%    1,943,556    1,357,707   +43.1%
+HS-6811  Asbestos-cement, of cellulose fibre-c     2.3%   0.0%    1,496,734    1,151,535   +30.0%
+HS-6802  Monumental or building stone, worked      0.5%   0.0%      289,330      443,735   -34.8%
+
+--- Section XV: Base Metals and Articles of Base Metal ---
+HS4      Description                               Sec%   Tot%        YTD kg       Prev kg     YoY%
+HS-7214  Iron or non-alloy steel; bars and rod    38.6%   1.1%   45,741,522   11,354,477  +302.9%
+HS-7308  Structures of iron or steel and parts    16.1%   0.5%   19,117,662    1,143,950 +1571.2%
+HS-7326  Iron or steel; articles, n.e.c. in ch    10.4%   0.3%   12,368,307    3,935,755  +214.3%
+HS-7312  Stranded wire, ropes, cables, plaited     5.9%   0.2%    6,983,291      941,269  +641.9%
+HS-7225  Alloy steel flat-rolled products, of      5.7%   0.2%    6,725,946    2,620,583  +156.7%
+
+--- Section XVI: Machinery and Mechanical Appliances; Electrical Equipme ---
+HS4      Description                               Sec%   Tot%        YTD kg       Prev kg     YoY%
+HS-8506  Cells and batteries; primary             21.7%   0.2%    7,941,089    7,575,657    +4.8%
+HS-8541  Diodes, transistors, similar semicond    13.5%   0.1%    4,940,320    2,768,626   +78.4%
+HS-8455  Metal-rolling mills and rolls therefo     9.8%   0.1%    3,597,071   11,485,566   -68.7%
+HS-8418  Refrigerators, freezers and other ref     9.7%   0.1%    3,543,174    2,097,135   +69.0%
+HS-8502  Electric generating sets and rotary c     6.2%   0.1%    2,289,152    3,816,330   -40.0%
+
+--- Section XVII: Vehicles, Aircraft, Vessels and Associated Transport Eq ---
+HS4      Description                               Sec%   Tot%        YTD kg       Prev kg     YoY%
+HS-8711  Motorcycles (including mopeds) and cy    32.0%   0.4%   14,797,768    4,879,005  +203.3%
+HS-8702  Vehicles; public transport passenger     18.9%   0.2%    8,734,608  147,588,081   -94.1%
+HS-8703  Motor cars and other motor vehicles;     16.6%   0.2%    7,663,713    6,194,801   +23.7%
+HS-8714  Vehicles; parts and accessories of he    16.1%   0.2%    7,435,422    4,445,996   +67.2%
+HS-8708  Motor vehicles; parts and accessories     7.1%   0.1%    3,269,586    2,352,390   +39.0%
+
+--- Section XVIII: Optical, Photographic, Cinematographic, Measuring, Chec ---
+HS4      Description                               Sec%   Tot%        YTD kg       Prev kg     YoY%
+HS-9001  Optical fibres and optical fibre bund    33.5%   0.0%      286,610      209,083   +37.1%
+HS-9018  Instruments and appliances used in me    31.6%   0.0%      270,536       97,776  +176.7%
+HS-9017  Sugars and sugar confectionery           20.0%   0.0%      171,256       78,343  +118.6%
+HS-9112  Clock cases and cases of a similar ty     7.3%   0.0%       62,772       62,786    -0.0%
+HS-9004  Spectacles, goggles and the like; cor     2.7%   0.0%       22,822       25,733   -11.3%
+
+--- Section XX: Miscellaneous Manufactured Articles ---
+HS4      Description                               Sec%   Tot%        YTD kg       Prev kg     YoY%
+HS-9619  Sanitary towels (pads) and tampons, n    48.3%   0.2%    7,144,028    5,221,485   +36.8%
+HS-9406  Buildings; prefabricated                 18.4%   0.1%    2,717,734      634,790  +328.1%
+HS-9403  Furniture and parts thereof, n.e.c. i    13.1%   0.0%    1,939,257      928,363  +108.9%
+HS-9603  Brooms, brushes (including parts of m     4.2%   0.0%      624,273      594,939    +4.9%
+HS-9405  Lamps, light fittings; including sear     3.5%   0.0%      517,002      303,754   +70.2%
+
+--- Section XXI: Works of Art, Collectors' Pieces and Antiques ---
+HS4      Description                               Sec%   Tot%        YTD kg       Prev kg     YoY%
+HS-9705  Animal originated products; not elsew   100.0%   0.0%       11,227       11,132    +0.8%
+
+--- Section XXII: Special Classification Provisions; Temporary Legislatio ---
+HS4      Description                               Sec%   Tot%        YTD kg       Prev kg     YoY%
+HS-9999  Commodities not specified according t   100.0%   6.9%  283,759,914  328,916,281   -13.7%
+
+--- Section Other: 0 ---
+HS4      Description                               Sec%   Tot%        YTD kg       Prev kg     YoY%
+HS-7412  Oil seeds and oleaginous fruits; misc   100.0%   0.0%       18,810            0 +1881000.0%
+
+==============================================================================================================
+END OF REPORT
+==============================================================================================================
+```

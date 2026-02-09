@@ -1,0 +1,13 @@
+{
+  "analysis_date": "2026-02-09T11:10:16.753940",
+  "total_combinations": 1767,
+  "metrics_analyzed": [
+    "weight_kg"
+  ],
+  "per_metric": {
+    "weight_kg": {
+      "anomalies_count": 108,
+      "significant_count": 1
+    }
+  }
+}
