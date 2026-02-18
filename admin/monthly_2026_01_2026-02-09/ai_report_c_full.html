@@ -74,9 +74,94 @@ strong { color: var(--accent); }
     body { padding: 1rem; }
     h1 { font-size: 1.8rem; }
 }
+
+.podcast-toggle {
+    position: fixed; top: 1rem; right: 1rem; z-index: 9999;
+    background: var(--bg-card); border: 1px solid var(--border); border-radius: 10px;
+    padding: 0.5rem 1rem; color: var(--text-primary); cursor: pointer;
+    display: flex; align-items: center; gap: 0.5rem;
+    font-size: 0.85rem; font-weight: 600; transition: all 0.2s;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.4);
+}
+.podcast-toggle:hover { border-color: var(--orange); }
+.podcast-toggle svg { width: 18px; height: 18px; stroke: var(--orange); fill: none; stroke-width: 2; }
+.podcast-toggle .est { color: var(--text-secondary); font-weight: 400; font-size: 0.78rem; margin-left: 0.25rem; }
+.podcast-panel {
+    position: fixed; top: 1rem; right: 1rem; z-index: 9999;
+    background: var(--bg-card); border: 1px solid var(--border); border-radius: 12px;
+    padding: 1rem 1.25rem; width: 360px; max-width: calc(100vw - 2rem);
+    box-shadow: 0 8px 32px rgba(0,0,0,0.5); display: none;
+}
+.podcast-panel.open { display: block; }
+.podcast-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 0.75rem; }
+.podcast-title { font-size: 0.85rem; font-weight: 600; color: var(--orange); display: flex; align-items: center; gap: 0.4rem; }
+.podcast-title svg { width: 16px; height: 16px; stroke: var(--orange); fill: none; stroke-width: 2; }
+.podcast-close { background: none; border: none; color: var(--text-secondary); cursor: pointer; font-size: 1.2rem; line-height: 1; padding: 0.2rem; }
+.podcast-close:hover { color: var(--text-primary); }
+.podcast-controls { display: flex; align-items: center; gap: 0.6rem; margin-bottom: 0.6rem; }
+.podcast-play {
+    background: var(--orange); border: none; color: #fff; width: 36px; height: 36px;
+    border-radius: 50%; cursor: pointer; display: flex; align-items: center; justify-content: center;
+    flex-shrink: 0; transition: background 0.2s;
+}
+.podcast-play:hover { background: #d45e10; }
+.podcast-play svg { width: 16px; height: 16px; fill: #fff; stroke: none; }
+.podcast-progress { flex: 1; display: flex; flex-direction: column; gap: 0.2rem; }
+.podcast-bar-wrap { width: 100%; height: 6px; background: var(--bg-secondary); border-radius: 3px; cursor: pointer; position: relative; }
+.podcast-bar { height: 100%; background: var(--orange); border-radius: 3px; width: 0%; transition: width 0.3s; }
+.podcast-times { display: flex; justify-content: space-between; font-size: 0.72rem; color: var(--text-secondary); }
+.podcast-speed-row { display: flex; align-items: center; justify-content: space-between; }
+.podcast-speeds { display: flex; gap: 0.3rem; }
+.podcast-speeds button {
+    background: var(--bg-secondary); border: 1px solid var(--border); color: var(--text-secondary);
+    padding: 0.2rem 0.5rem; border-radius: 4px; font-size: 0.72rem; cursor: pointer; transition: all 0.15s;
+}
+.podcast-speeds button.active { background: var(--orange); color: #fff; border-color: var(--orange); }
+.podcast-speeds button:hover { border-color: var(--orange); }
+.podcast-dl { display: inline-flex; align-items: center; gap: 0.3rem; color: var(--accent); text-decoration: none; font-size: 0.78rem; font-weight: 500; }
+.podcast-dl:hover { text-decoration: underline; }
+.podcast-dl svg { width: 14px; height: 14px; stroke: var(--accent); fill: none; stroke-width: 2; }
+.podcast-error { color: var(--text-secondary); font-size: 0.8rem; text-align: center; padding: 0.5rem 0; }
+
 </style>
 </head>
 <body>
+<button class="podcast-toggle" id="podcastToggle" onclick="togglePodcast()">
+    <svg viewBox="0 0 24 24"><path d="M3 18v-6a9 9 0 0 1 18 0v6"></path><path d="M21 19a2 2 0 0 1-2 2h-1a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2h3zM3 19a2 2 0 0 0 2 2h1a2 2 0 0 0 2-2v-3a2 2 0 0 0-2-2H3z"></path></svg>
+    Listen as Podcast <span class="est">~21 min</span>
+</button>
+<div class="podcast-panel" id="podcastPanel">
+    <div class="podcast-header">
+        <div class="podcast-title"><svg viewBox="0 0 24 24"><path d="M3 18v-6a9 9 0 0 1 18 0v6"></path><path d="M21 19a2 2 0 0 1-2 2h-1a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2h3zM3 19a2 2 0 0 0 2 2h1a2 2 0 0 0 2-2v-3a2 2 0 0 0-2-2H3z"></path></svg> Podcast Player</div>
+        <button class="podcast-close" onclick="togglePodcast()">&times;</button>
+    </div>
+    <div id="podcastBody">
+        <div class="podcast-controls">
+            <button class="podcast-play" id="podcastPlay" onclick="ppToggle()">
+                <svg viewBox="0 0 24 24" id="playIcon"><polygon points="5 3 19 12 5 21 5 3"></polygon></svg>
+                <svg viewBox="0 0 24 24" id="pauseIcon" style="display:none"><rect x="6" y="4" width="4" height="16" fill="#fff"></rect><rect x="14" y="4" width="4" height="16" fill="#fff"></rect></svg>
+            </button>
+            <div class="podcast-progress">
+                <div class="podcast-bar-wrap" id="podcastBarWrap" onclick="seekAudio(event)">
+                    <div class="podcast-bar" id="podcastBar"></div>
+                </div>
+                <div class="podcast-times"><span id="podcastCurrent">0:00</span><span id="podcastDuration">--:--</span></div>
+            </div>
+        </div>
+        <div class="podcast-speed-row">
+            <div class="podcast-speeds">
+                <button onclick="setSpeed(0.75)">0.75x</button>
+                <button class="active" onclick="setSpeed(1)">1x</button>
+                <button onclick="setSpeed(1.25)">1.25x</button>
+                <button onclick="setSpeed(1.5)">1.5x</button>
+            </div>
+            <a class="podcast-dl" id="podcastDl" href="AI_Haiti_Report_C_monthly_2026_01.mp3" download>
+                <svg viewBox="0 0 24 24"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg>
+                Download MP3
+            </a>
+        </div>
+    </div>
+</div>
 <div class="report-badge">Report C — Curated Highlights</div>
 <article class="report-content">
 <h1>Haiti's January 2026 Import Surge: A 29% Year-on-Year Rebound Masks Deeper Fragility</h1>
@@ -226,5 +311,47 @@ Yes—CargoFax subscribers can drill down to individual bills of lading, includi
 <p>Haiti Trade Intelligence — Report C — Curated Highlights | Data: BOL data from CargoFax</p>
 <p>Report Period: monthly_2026_01 | Generated: 2026-02-09 10:45</p>
 </footer>
+<script>
+(function() {
+    var audio = new Audio("AI_Haiti_Report_C_monthly_2026_01.mp3");
+    var playing = false;
+    var bar = document.getElementById("podcastBar");
+    var curEl = document.getElementById("podcastCurrent");
+    var durEl = document.getElementById("podcastDuration");
+    var playIcon = document.getElementById("playIcon");
+    var pauseIcon = document.getElementById("pauseIcon");
+    var body = document.getElementById("podcastBody");
+    function fmt(s) {
+        if (!s || isNaN(s)) return "--:--";
+        var m = Math.floor(s / 60); var sec = Math.floor(s % 60);
+        return m + ":" + (sec < 10 ? "0" : "") + sec;
+    }
+    audio.addEventListener("loadedmetadata", function() { durEl.textContent = fmt(audio.duration); });
+    audio.addEventListener("timeupdate", function() {
+        if (audio.duration) { bar.style.width = (audio.currentTime / audio.duration * 100) + "%"; curEl.textContent = fmt(audio.currentTime); }
+    });
+    audio.addEventListener("ended", function() { playing = false; playIcon.style.display = ""; pauseIcon.style.display = "none"; });
+    audio.addEventListener("error", function() { body.innerHTML = '<div class="podcast-error">Audio not yet generated.<br>Run: <code>python scripts/14_generate_podcast.py --batch</code></div>'; });
+    window.togglePodcast = function() {
+        var open = document.getElementById("podcastPanel").classList.toggle("open");
+        document.getElementById("podcastToggle").style.display = open ? "none" : "flex";
+    };
+    window.ppToggle = function() {
+        if (playing) { audio.pause(); playing = false; playIcon.style.display = ""; pauseIcon.style.display = "none"; }
+        else { audio.play(); playing = true; playIcon.style.display = "none"; pauseIcon.style.display = ""; }
+    };
+    window.seekAudio = function(e) {
+        if (!audio.duration) return;
+        var rect = document.getElementById("podcastBarWrap").getBoundingClientRect();
+        audio.currentTime = (e.clientX - rect.left) / rect.width * audio.duration;
+    };
+    window.setSpeed = function(rate) {
+        audio.playbackRate = rate;
+        document.querySelectorAll(".podcast-speeds button").forEach(function(b) {
+            b.classList.toggle("active", parseFloat(b.textContent) === rate);
+        });
+    };
+})();
+</script>
 </body>
 </html>
